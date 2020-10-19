@@ -33,6 +33,7 @@
 <!-- <h3>📕 Latest Blog post:</h3> -->
 
 <h3>Recent GitHub activity:</h3>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#50](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/50) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
 2. 💪 Opened PR [#50](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/50) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
