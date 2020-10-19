@@ -16,6 +16,7 @@
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img alt="julia" src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=Julia&logoColor=white"/>
 <img alt="golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+<img alt="latex" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=Latex&logoColor=white"/>
 </div>
 <div>
 <img alt="pytorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
@@ -71,7 +72,7 @@
 For more details about my projects, see my <a href="https://kai-tub.github.io/">portfolio page</a>.
 </div>
 <h3>Contact me:</h3>
-<p>
+<p align="center">
 <a href="https://kai-tub.github.io/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://twitter.com/kai_tub" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/kai-norman-clasen/t" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
