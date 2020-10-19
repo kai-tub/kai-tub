@@ -32,6 +32,7 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 <h3>📕 Latest Blog post:</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [Understanding spectral reflectance](https://kai-tub.github.io/master-thesis-blog/images/2020/10/14/understanding-spectral-reflectance.html)
 - [Color widgets](https://kai-tub.github.io/master-thesis-blog/widgets/2020/10/04/color-widgets.html)
