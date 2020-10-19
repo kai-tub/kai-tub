@@ -35,7 +35,6 @@
 <h3>Recent GitHub activity:</h3>
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 <h3>Open source projects:</h3>
 <center>
