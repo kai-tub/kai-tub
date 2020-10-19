@@ -34,6 +34,12 @@
 
 <h3>Recent GitHub activity:</h3>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#50](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/50) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+2. 💪 Opened PR [#50](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/50) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+3. 🎉 Merged PR [#9](https://github.com/kai-tub/master-thesis-blog/pull/9) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
+4. 💪 Opened PR [#9](https://github.com/kai-tub/master-thesis-blog/pull/9) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
+5. ❗️ Closed issue [#4](https://github.com/kai-tub/master-thesis-blog/issues/4) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
+<!--END_SECTION:activity-->
 
 
 <h3>Open source projects:</h3>
