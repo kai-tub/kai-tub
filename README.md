@@ -33,7 +33,7 @@
 <!-- <h3>📕 Latest Blog post:</h3> -->
 
 <h3>Recent GitHub activity:</h3>
-<!-- START_SECTION:activity -->
+<!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
