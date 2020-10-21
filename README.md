@@ -43,11 +43,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/kai-tub/master-thesis-blog/pull/6) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
-2. 🎉 Merged PR [#50](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/50) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-3. 💪 Opened PR [#50](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/50) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-4. 🎉 Merged PR [#9](https://github.com/kai-tub/master-thesis-blog/pull/9) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
-5. 💪 Opened PR [#9](https://github.com/kai-tub/master-thesis-blog/pull/9) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
+1. ❗️ Closed issue [#2](https://github.com/kai-tub/master-thesis-blog/issues/2) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
+2. 🗣 Commented on [#437](https://github.com/fastai/fastpages/issues/437) in [fastai/fastpages](https://github.com/fastai/fastpages)
+3. ❗️ Reopened issue [#2](https://github.com/kai-tub/master-thesis-blog/issues/2) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
+4. ❗️ Closed issue [#2](https://github.com/kai-tub/master-thesis-blog/issues/2) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
+5. ❌ Closed PR [#6](https://github.com/kai-tub/master-thesis-blog/pull/6) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
 <!--END_SECTION:activity-->
 
 
