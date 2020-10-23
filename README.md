@@ -43,11 +43,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/kai-tub/master-thesis-blog/issues/2) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
-2. 🗣 Commented on [#437](https://github.com/fastai/fastpages/issues/437) in [fastai/fastpages](https://github.com/fastai/fastpages)
-3. ❗️ Reopened issue [#2](https://github.com/kai-tub/master-thesis-blog/issues/2) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
-4. ❗️ Closed issue [#2](https://github.com/kai-tub/master-thesis-blog/issues/2) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
-5. ❌ Closed PR [#6](https://github.com/kai-tub/master-thesis-blog/pull/6) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
+1. ❗️ Opened issue [#10](https://github.com/kai-tub/master-thesis-blog/issues/10) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
+2. ❗️ Closed issue [#2](https://github.com/kai-tub/master-thesis-blog/issues/2) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
+3. 🗣 Commented on [#437](https://github.com/fastai/fastpages/issues/437) in [fastai/fastpages](https://github.com/fastai/fastpages)
+4. ❗️ Reopened issue [#2](https://github.com/kai-tub/master-thesis-blog/issues/2) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
+5. ❗️ Closed issue [#2](https://github.com/kai-tub/master-thesis-blog/issues/2) in [kai-tub/master-thesis-blog](https://github.com/kai-tub/master-thesis-blog)
 <!--END_SECTION:activity-->
 
 
