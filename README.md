@@ -43,11 +43,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#52](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/52) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-2. 🗣 Commented on [#52](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/52) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-3. 🗣 Commented on [#52](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/52) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-4. ❗️ Closed issue [#47](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/47) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-5. 🗣 Commented on [#47](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/47) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+1. ❗️ Closed issue [#45](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/45) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+2. 🎉 Merged PR [#54](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/54) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+3. 💪 Opened PR [#54](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/54) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+4. 🗣 Commented on [#45](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/45) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+5. ❗️ Closed issue [#52](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/52) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
 <!--END_SECTION:activity-->
 
 
