@@ -34,6 +34,7 @@
 <h3>📕 Latest Blog post:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to the BigEarthNet dataset](https://kai-tub.github.io/master-thesis-blog/images/2020/10/28/bigearthnet-dataset.html)
 - [Understanding spectral reflectance](https://kai-tub.github.io/master-thesis-blog/images/2020/10/14/understanding-spectral-reflectance.html)
 - [Color widgets](https://kai-tub.github.io/master-thesis-blog/widgets/2020/10/04/color-widgets.html)
 - [Introduction to multi-channel images](https://kai-tub.github.io/master-thesis-blog/images/2020/09/16/images-with-channels.html)
