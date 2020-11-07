@@ -44,10 +44,10 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/57) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+1. 🗣 Commented on [#58](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/58) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
 2. 🗣 Commented on [#58](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/58) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-3. 🗣 Commented on [#58](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/58) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-4. ❗️ Opened issue [#59](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/59) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+3. 🗣 Commented on [#57](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/57) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+4. 🗣 Commented on [#58](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/58) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
 5. 🗣 Commented on [#58](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/58) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
 <!--END_SECTION:activity-->
 
