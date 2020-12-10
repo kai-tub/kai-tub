@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1329](https://github.com/pre-commit/pre-commit/issues/1329) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-2. 🗣 Commented on [#63](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/63) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-3. 🎉 Merged PR [#63](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/63) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-4. ❗️ Closed issue [#62](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/62) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-5. 🗣 Commented on [#62](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/62) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+1. 🗣 Commented on [#1425](https://github.com/python-visualization/folium/issues/1425) in [python-visualization/folium](https://github.com/python-visualization/folium)
+2. 💪 Opened PR [#1425](https://github.com/python-visualization/folium/pull/1425) in [python-visualization/folium](https://github.com/python-visualization/folium)
+3. 🗣 Commented on [#1424](https://github.com/python-visualization/folium/issues/1424) in [python-visualization/folium](https://github.com/python-visualization/folium)
+4. 🗣 Commented on [#1424](https://github.com/python-visualization/folium/issues/1424) in [python-visualization/folium](https://github.com/python-visualization/folium)
+5. 🗣 Commented on [#1424](https://github.com/python-visualization/folium/issues/1424) in [python-visualization/folium](https://github.com/python-visualization/folium)
 <!--END_SECTION:activity-->
 
 
