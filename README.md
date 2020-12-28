@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/kai-tub/dotfiles/issues/3) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
-2. ❗️ Opened issue [#2](https://github.com/kai-tub/dotfiles/issues/2) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
-3. ❗️ Opened issue [#1](https://github.com/kai-tub/dotfiles/issues/1) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
-4. 🗣 Commented on [#1425](https://github.com/python-visualization/folium/issues/1425) in [python-visualization/folium](https://github.com/python-visualization/folium)
-5. 💪 Opened PR [#1425](https://github.com/python-visualization/folium/pull/1425) in [python-visualization/folium](https://github.com/python-visualization/folium)
+1. ❗️ Closed issue [#1](https://github.com/kai-tub/dotfiles/issues/1) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
+2. ❗️ Closed issue [#3](https://github.com/kai-tub/dotfiles/issues/3) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
+3. 🗣 Commented on [#2](https://github.com/kai-tub/dotfiles/issues/2) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
+4. ❗️ Closed issue [#2](https://github.com/kai-tub/dotfiles/issues/2) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
+5. ❗️ Opened issue [#3](https://github.com/kai-tub/dotfiles/issues/3) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
 <!--END_SECTION:activity-->
 
 
