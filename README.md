@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/73) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-2. 💪 Opened PR [#73](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/73) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-3. ❗️ Closed issue [#1](https://github.com/kai-tub/dotfiles/issues/1) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
-4. ❗️ Closed issue [#3](https://github.com/kai-tub/dotfiles/issues/3) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
-5. 🗣 Commented on [#2](https://github.com/kai-tub/dotfiles/issues/2) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
+1. ❗️ Opened issue [#4](https://github.com/kai-tub/dotfiles/issues/4) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
+2. 🎉 Merged PR [#73](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/73) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+3. 💪 Opened PR [#73](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/73) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+4. ❗️ Closed issue [#1](https://github.com/kai-tub/dotfiles/issues/1) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
+5. ❗️ Closed issue [#3](https://github.com/kai-tub/dotfiles/issues/3) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
 <!--END_SECTION:activity-->
 
 
