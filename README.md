@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3246](https://github.com/fastai/fastai/issues/3246) in [fastai/fastai](https://github.com/fastai/fastai)
-2. ❗️ Opened issue [#17](https://github.com/KeremTurgutlu/self_supervised/issues/17) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
-3. 🗣 Commented on [#16](https://github.com/KeremTurgutlu/self_supervised/issues/16) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
-4. 🗣 Commented on [#16](https://github.com/KeremTurgutlu/self_supervised/issues/16) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
-5. ❗️ Opened issue [#4](https://github.com/kai-tub/dotfiles/issues/4) in [kai-tub/dotfiles](https://github.com/kai-tub/dotfiles)
+1. 💪 Opened PR [#3252](https://github.com/fastai/fastai/pull/3252) in [fastai/fastai](https://github.com/fastai/fastai)
+2. 🗣 Commented on [#32](https://github.com/KeremTurgutlu/self_supervised/issues/32) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
+3. 🗣 Commented on [#33](https://github.com/KeremTurgutlu/self_supervised/issues/33) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
+4. ❗️ Opened issue [#33](https://github.com/KeremTurgutlu/self_supervised/issues/33) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
+5. ❗️ Opened issue [#32](https://github.com/KeremTurgutlu/self_supervised/issues/32) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
 <!--END_SECTION:activity-->
 
 
