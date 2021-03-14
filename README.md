@@ -45,10 +45,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#19](https://github.com/KeremTurgutlu/self_supervised/issues/19) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
-2. 🗣 Commented on [#32](https://github.com/KeremTurgutlu/self_supervised/issues/32) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
-3. 💪 Opened PR [#3255](https://github.com/fastai/fastai/pull/3255) in [fastai/fastai](https://github.com/fastai/fastai)
-4. 🗣 Commented on [#33](https://github.com/KeremTurgutlu/self_supervised/issues/33) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
-5. 🗣 Commented on [#32](https://github.com/KeremTurgutlu/self_supervised/issues/32) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
+2. 🗣 Commented on [#19](https://github.com/KeremTurgutlu/self_supervised/issues/19) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
+3. 🗣 Commented on [#19](https://github.com/KeremTurgutlu/self_supervised/issues/19) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
+4. 🗣 Commented on [#19](https://github.com/KeremTurgutlu/self_supervised/issues/19) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
+5. 🗣 Commented on [#3252](https://github.com/fastai/fastai/issues/3252) in [fastai/fastai](https://github.com/fastai/fastai)
 <!--END_SECTION:activity-->
 
 
