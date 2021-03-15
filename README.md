@@ -48,7 +48,7 @@
 2. 🗣 Commented on [#19](https://github.com/KeremTurgutlu/self_supervised/issues/19) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
 3. 🗣 Commented on [#19](https://github.com/KeremTurgutlu/self_supervised/issues/19) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
 4. 🗣 Commented on [#19](https://github.com/KeremTurgutlu/self_supervised/issues/19) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
-5. 🗣 Commented on [#3252](https://github.com/fastai/fastai/issues/3252) in [fastai/fastai](https://github.com/fastai/fastai)
+5. 🗣 Commented on [#19](https://github.com/KeremTurgutlu/self_supervised/issues/19) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
 <!--END_SECTION:activity-->
 
 
