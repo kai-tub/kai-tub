@@ -44,9 +44,9 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/KeremTurgutlu/self_supervised/issues/40) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
-2. ❗️ Opened issue [#37](https://github.com/KeremTurgutlu/self_supervised/issues/37) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
-3. 🗣 Commented on [#19](https://github.com/KeremTurgutlu/self_supervised/issues/19) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
+1. ❗️ Opened issue [#9](https://github.com/conda-forge/kornia-feedstock/issues/9) in [conda-forge/kornia-feedstock](https://github.com/conda-forge/kornia-feedstock)
+2. 🗣 Commented on [#40](https://github.com/KeremTurgutlu/self_supervised/issues/40) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
+3. ❗️ Opened issue [#37](https://github.com/KeremTurgutlu/self_supervised/issues/37) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
 4. 🗣 Commented on [#19](https://github.com/KeremTurgutlu/self_supervised/issues/19) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
 5. 🗣 Commented on [#19](https://github.com/KeremTurgutlu/self_supervised/issues/19) in [KeremTurgutlu/self_supervised](https://github.com/KeremTurgutlu/self_supervised)
 <!--END_SECTION:activity-->
