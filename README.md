@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#457](https://github.com/fastai/nbdev/issues/457) in [fastai/nbdev](https://github.com/fastai/nbdev)
+1. 🗣 Commented on [#737](https://github.com/xoseperez/espurna/issues/737) in [xoseperez/espurna](https://github.com/xoseperez/espurna)
 2. 🗣 Commented on [#457](https://github.com/fastai/nbdev/issues/457) in [fastai/nbdev](https://github.com/fastai/nbdev)
-3. 🗣 Commented on [#454](https://github.com/fastai/nbdev/issues/454) in [fastai/nbdev](https://github.com/fastai/nbdev)
-4. 🗣 Commented on [#634](https://github.com/jupyter/jupyter_client/issues/634) in [jupyter/jupyter_client](https://github.com/jupyter/jupyter_client)
-5. 🗣 Commented on [#454](https://github.com/fastai/nbdev/issues/454) in [fastai/nbdev](https://github.com/fastai/nbdev)
+3. 🗣 Commented on [#457](https://github.com/fastai/nbdev/issues/457) in [fastai/nbdev](https://github.com/fastai/nbdev)
+4. 🗣 Commented on [#454](https://github.com/fastai/nbdev/issues/454) in [fastai/nbdev](https://github.com/fastai/nbdev)
+5. 🗣 Commented on [#634](https://github.com/jupyter/jupyter_client/issues/634) in [jupyter/jupyter_client](https://github.com/jupyter/jupyter_client)
 <!--END_SECTION:activity-->
 
 
