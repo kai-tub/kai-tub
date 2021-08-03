@@ -44,10 +44,10 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/lessw2020/Ranger21/issues/16) in [lessw2020/Ranger21](https://github.com/lessw2020/Ranger21)
-2. 🗣 Commented on [#737](https://github.com/xoseperez/espurna/issues/737) in [xoseperez/espurna](https://github.com/xoseperez/espurna)
-3. 🗣 Commented on [#457](https://github.com/fastai/nbdev/issues/457) in [fastai/nbdev](https://github.com/fastai/nbdev)
-4. 🗣 Commented on [#457](https://github.com/fastai/nbdev/issues/457) in [fastai/nbdev](https://github.com/fastai/nbdev)
+1. ❗️ Closed issue [#3563](https://github.com/getnikola/nikola/issues/3563) in [getnikola/nikola](https://github.com/getnikola/nikola)
+2. 🗣 Commented on [#3563](https://github.com/getnikola/nikola/issues/3563) in [getnikola/nikola](https://github.com/getnikola/nikola)
+3. ❗️ Opened issue [#3563](https://github.com/getnikola/nikola/issues/3563) in [getnikola/nikola](https://github.com/getnikola/nikola)
+4. ❗️ Opened issue [#16](https://github.com/lessw2020/Ranger21/issues/16) in [lessw2020/Ranger21](https://github.com/lessw2020/Ranger21)
 5. 🗣 Commented on [#454](https://github.com/fastai/nbdev/issues/454) in [fastai/nbdev](https://github.com/fastai/nbdev)
 <!--END_SECTION:activity-->
 
