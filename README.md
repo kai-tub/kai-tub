@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3563](https://github.com/getnikola/nikola/issues/3563) in [getnikola/nikola](https://github.com/getnikola/nikola)
-2. 🗣 Commented on [#3563](https://github.com/getnikola/nikola/issues/3563) in [getnikola/nikola](https://github.com/getnikola/nikola)
-3. ❗️ Opened issue [#3563](https://github.com/getnikola/nikola/issues/3563) in [getnikola/nikola](https://github.com/getnikola/nikola)
-4. ❗️ Opened issue [#16](https://github.com/lessw2020/Ranger21/issues/16) in [lessw2020/Ranger21](https://github.com/lessw2020/Ranger21)
-5. 🗣 Commented on [#454](https://github.com/fastai/nbdev/issues/454) in [fastai/nbdev](https://github.com/fastai/nbdev)
+1. 🗣 Commented on [#3564](https://github.com/getnikola/nikola/issues/3564) in [getnikola/nikola](https://github.com/getnikola/nikola)
+2. 🗣 Commented on [#3564](https://github.com/getnikola/nikola/issues/3564) in [getnikola/nikola](https://github.com/getnikola/nikola)
+3. 🗣 Commented on [#3564](https://github.com/getnikola/nikola/issues/3564) in [getnikola/nikola](https://github.com/getnikola/nikola)
+4. ❗️ Opened issue [#3564](https://github.com/getnikola/nikola/issues/3564) in [getnikola/nikola](https://github.com/getnikola/nikola)
+5. ❗️ Closed issue [#3563](https://github.com/getnikola/nikola/issues/3563) in [getnikola/nikola](https://github.com/getnikola/nikola)
 <!--END_SECTION:activity-->
 
 
