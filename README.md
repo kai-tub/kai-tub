@@ -45,10 +45,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3564](https://github.com/getnikola/nikola/issues/3564) in [getnikola/nikola](https://github.com/getnikola/nikola)
-2. 🗣 Commented on [#3564](https://github.com/getnikola/nikola/issues/3564) in [getnikola/nikola](https://github.com/getnikola/nikola)
-3. 🗣 Commented on [#3564](https://github.com/getnikola/nikola/issues/3564) in [getnikola/nikola](https://github.com/getnikola/nikola)
-4. ❗️ Opened issue [#3564](https://github.com/getnikola/nikola/issues/3564) in [getnikola/nikola](https://github.com/getnikola/nikola)
-5. ❗️ Closed issue [#3563](https://github.com/getnikola/nikola/issues/3563) in [getnikola/nikola](https://github.com/getnikola/nikola)
+2. 🗣 Commented on [#6](https://github.com/conda-forge/nikola-feedstock/issues/6) in [conda-forge/nikola-feedstock](https://github.com/conda-forge/nikola-feedstock)
+3. ❗️ Opened issue [#6](https://github.com/conda-forge/nikola-feedstock/issues/6) in [conda-forge/nikola-feedstock](https://github.com/conda-forge/nikola-feedstock)
+4. 🗣 Commented on [#3564](https://github.com/getnikola/nikola/issues/3564) in [getnikola/nikola](https://github.com/getnikola/nikola)
+5. 🗣 Commented on [#3564](https://github.com/getnikola/nikola/issues/3564) in [getnikola/nikola](https://github.com/getnikola/nikola)
 <!--END_SECTION:activity-->
 
 
