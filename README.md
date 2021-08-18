@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/kai-tub/blog/issues/17) in [kai-tub/blog](https://github.com/kai-tub/blog)
-2. ❗️ Closed issue [#15](https://github.com/kai-tub/blog/issues/15) in [kai-tub/blog](https://github.com/kai-tub/blog)
-3. ❗️ Opened issue [#77](https://github.com/srstevenson/nb-clean/issues/77) in [srstevenson/nb-clean](https://github.com/srstevenson/nb-clean)
-4. ❗️ Opened issue [#3565](https://github.com/getnikola/nikola/issues/3565) in [getnikola/nikola](https://github.com/getnikola/nikola)
-5. 🗣 Commented on [#3564](https://github.com/getnikola/nikola/issues/3564) in [getnikola/nikola](https://github.com/getnikola/nikola)
+1. 🗣 Commented on [#19](https://github.com/kai-tub/blog/issues/19) in [kai-tub/blog](https://github.com/kai-tub/blog)
+2. ❗️ Closed issue [#14](https://github.com/kai-tub/blog/issues/14) in [kai-tub/blog](https://github.com/kai-tub/blog)
+3. ❗️ Closed issue [#18](https://github.com/kai-tub/blog/issues/18) in [kai-tub/blog](https://github.com/kai-tub/blog)
+4. ❗️ Opened issue [#18](https://github.com/kai-tub/blog/issues/18) in [kai-tub/blog](https://github.com/kai-tub/blog)
+5. ❗️ Closed issue [#17](https://github.com/kai-tub/blog/issues/17) in [kai-tub/blog](https://github.com/kai-tub/blog)
 <!--END_SECTION:activity-->
 
 
