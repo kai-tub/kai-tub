@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com/srstevenson/nb-clean/pull/79) in [srstevenson/nb-clean](https://github.com/srstevenson/nb-clean)
-2. ❗️ Opened issue [#21](https://github.com/kai-tub/blog/issues/21) in [kai-tub/blog](https://github.com/kai-tub/blog)
-3. ❗️ Opened issue [#20](https://github.com/kai-tub/blog/issues/20) in [kai-tub/blog](https://github.com/kai-tub/blog)
-4. 🗣 Commented on [#19](https://github.com/kai-tub/blog/issues/19) in [kai-tub/blog](https://github.com/kai-tub/blog)
-5. ❗️ Closed issue [#14](https://github.com/kai-tub/blog/issues/14) in [kai-tub/blog](https://github.com/kai-tub/blog)
+1. ❗️ Opened issue [#360](https://github.com/executablebooks/MyST-NB/issues/360) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 💪 Opened PR [#79](https://github.com/srstevenson/nb-clean/pull/79) in [srstevenson/nb-clean](https://github.com/srstevenson/nb-clean)
+3. ❗️ Opened issue [#21](https://github.com/kai-tub/blog/issues/21) in [kai-tub/blog](https://github.com/kai-tub/blog)
+4. ❗️ Opened issue [#20](https://github.com/kai-tub/blog/issues/20) in [kai-tub/blog](https://github.com/kai-tub/blog)
+5. 🗣 Commented on [#19](https://github.com/kai-tub/blog/issues/19) in [kai-tub/blog](https://github.com/kai-tub/blog)
 <!--END_SECTION:activity-->
 
 
