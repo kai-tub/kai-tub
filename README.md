@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#232](https://github.com/grantjenks/python-diskcache/issues/232) in [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache)
-2. ❗️ Opened issue [#360](https://github.com/executablebooks/MyST-NB/issues/360) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 💪 Opened PR [#79](https://github.com/srstevenson/nb-clean/pull/79) in [srstevenson/nb-clean](https://github.com/srstevenson/nb-clean)
-4. ❗️ Opened issue [#21](https://github.com/kai-tub/blog/issues/21) in [kai-tub/blog](https://github.com/kai-tub/blog)
-5. ❗️ Opened issue [#20](https://github.com/kai-tub/blog/issues/20) in [kai-tub/blog](https://github.com/kai-tub/blog)
+1. ❗️ Opened issue [#23](https://github.com/kai-tub/blog/issues/23) in [kai-tub/blog](https://github.com/kai-tub/blog)
+2. 🎉 Merged PR [#22](https://github.com/kai-tub/blog/pull/22) in [kai-tub/blog](https://github.com/kai-tub/blog)
+3. ❗️ Closed issue [#11](https://github.com/kai-tub/blog/issues/11) in [kai-tub/blog](https://github.com/kai-tub/blog)
+4. ❗️ Closed issue [#3](https://github.com/kai-tub/blog/issues/3) in [kai-tub/blog](https://github.com/kai-tub/blog)
+5. 💪 Opened PR [#22](https://github.com/kai-tub/blog/pull/22) in [kai-tub/blog](https://github.com/kai-tub/blog)
 <!--END_SECTION:activity-->
 
 
