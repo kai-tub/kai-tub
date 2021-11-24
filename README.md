@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/kai-tub/blog/issues/28) in [kai-tub/blog](https://github.com/kai-tub/blog)
-2. ❗️ Closed issue [#12](https://github.com/kai-tub/blog/issues/12) in [kai-tub/blog](https://github.com/kai-tub/blog)
-3. 🗣 Commented on [#25](https://github.com/kai-tub/blog/issues/25) in [kai-tub/blog](https://github.com/kai-tub/blog)
-4. ❗️ Opened issue [#25](https://github.com/kai-tub/blog/issues/25) in [kai-tub/blog](https://github.com/kai-tub/blog)
-5. ❗️ Opened issue [#24](https://github.com/kai-tub/blog/issues/24) in [kai-tub/blog](https://github.com/kai-tub/blog)
+1. ❗️ Closed issue [#31](https://github.com/kai-tub/blog/issues/31) in [kai-tub/blog](https://github.com/kai-tub/blog)
+2. 🎉 Merged PR [#32](https://github.com/kai-tub/blog/pull/32) in [kai-tub/blog](https://github.com/kai-tub/blog)
+3. 💪 Opened PR [#32](https://github.com/kai-tub/blog/pull/32) in [kai-tub/blog](https://github.com/kai-tub/blog)
+4. ❗️ Opened issue [#31](https://github.com/kai-tub/blog/issues/31) in [kai-tub/blog](https://github.com/kai-tub/blog)
+5. 🗣 Commented on [#28](https://github.com/kai-tub/blog/issues/28) in [kai-tub/blog](https://github.com/kai-tub/blog)
 <!--END_SECTION:activity-->
 
 
