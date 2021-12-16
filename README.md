@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/geopandas/dask-geopandas/issues/127) in [geopandas/dask-geopandas](https://github.com/geopandas/dask-geopandas)
-2. ❗️ Opened issue [#127](https://github.com/geopandas/dask-geopandas/issues/127) in [geopandas/dask-geopandas](https://github.com/geopandas/dask-geopandas)
-3. ❗️ Closed issue [#34](https://github.com/kai-tub/blog/issues/34) in [kai-tub/blog](https://github.com/kai-tub/blog)
-4. ❗️ Closed issue [#33](https://github.com/kai-tub/blog/issues/33) in [kai-tub/blog](https://github.com/kai-tub/blog)
-5. 🎉 Merged PR [#35](https://github.com/kai-tub/blog/pull/35) in [kai-tub/blog](https://github.com/kai-tub/blog)
+1. 🎉 Merged PR [#36](https://github.com/kai-tub/blog/pull/36) in [kai-tub/blog](https://github.com/kai-tub/blog)
+2. 💪 Opened PR [#36](https://github.com/kai-tub/blog/pull/36) in [kai-tub/blog](https://github.com/kai-tub/blog)
+3. 🗣 Commented on [#127](https://github.com/geopandas/dask-geopandas/issues/127) in [geopandas/dask-geopandas](https://github.com/geopandas/dask-geopandas)
+4. ❗️ Opened issue [#127](https://github.com/geopandas/dask-geopandas/issues/127) in [geopandas/dask-geopandas](https://github.com/geopandas/dask-geopandas)
+5. ❗️ Closed issue [#34](https://github.com/kai-tub/blog/issues/34) in [kai-tub/blog](https://github.com/kai-tub/blog)
 <!--END_SECTION:activity-->
 
 
