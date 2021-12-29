@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/kai-tub/bigearthnet_common/issues/4) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-2. ❗️ Opened issue [#3](https://github.com/kai-tub/bigearthnet_common/issues/3) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-3. 🎉 Merged PR [#2](https://github.com/kai-tub/bigearthnet_common/pull/2) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-4. 💪 Opened PR [#2](https://github.com/kai-tub/bigearthnet_common/pull/2) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-5. 💪 Opened PR [#17361](https://github.com/conda-forge/staged-recipes/pull/17361) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+1. ❗️ Closed issue [#4](https://github.com/kai-tub/bigearthnet_common/issues/4) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+2. 🎉 Merged PR [#5](https://github.com/kai-tub/bigearthnet_common/pull/5) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+3. 💪 Opened PR [#5](https://github.com/kai-tub/bigearthnet_common/pull/5) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+4. ❗️ Opened issue [#4](https://github.com/kai-tub/bigearthnet_common/issues/4) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+5. ❗️ Opened issue [#3](https://github.com/kai-tub/bigearthnet_common/issues/3) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
 <!--END_SECTION:activity-->
 
 
