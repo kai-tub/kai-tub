@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/kai-tub/bigearthnet_common/pull/8) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-2. 💪 Opened PR [#8](https://github.com/kai-tub/bigearthnet_common/pull/8) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-3. ❌ Closed PR [#7](https://github.com/kai-tub/bigearthnet_common/pull/7) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-4. 💪 Opened PR [#7](https://github.com/kai-tub/bigearthnet_common/pull/7) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-5. 🗣 Commented on [#17386](https://github.com/conda-forge/staged-recipes/issues/17386) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+1. ❗️ Opened issue [#1](https://github.com/conda-forge/bigearthnet-common-feedstock/issues/1) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
+2. 🗣 Commented on [#3588](https://github.com/getnikola/nikola/issues/3588) in [getnikola/nikola](https://github.com/getnikola/nikola)
+3. 🎉 Merged PR [#9](https://github.com/kai-tub/bigearthnet_common/pull/9) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+4. 💪 Opened PR [#9](https://github.com/kai-tub/bigearthnet_common/pull/9) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+5. 🎉 Merged PR [#8](https://github.com/kai-tub/bigearthnet_common/pull/8) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
 <!--END_SECTION:activity-->
 
 
