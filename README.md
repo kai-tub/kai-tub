@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/kai-tub/bigearthnet_common/pull/10) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-2. 💪 Opened PR [#10](https://github.com/kai-tub/bigearthnet_common/pull/10) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-3. ❗️ Opened issue [#1](https://github.com/conda-forge/bigearthnet-common-feedstock/issues/1) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
-4. 🗣 Commented on [#3588](https://github.com/getnikola/nikola/issues/3588) in [getnikola/nikola](https://github.com/getnikola/nikola)
-5. 🎉 Merged PR [#9](https://github.com/kai-tub/bigearthnet_common/pull/9) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+1. 🎉 Merged PR [#1](https://github.com/kai-tub/common_nb_preprocessors/pull/1) in [kai-tub/common_nb_preprocessors](https://github.com/kai-tub/common_nb_preprocessors)
+2. 💪 Opened PR [#1](https://github.com/kai-tub/common_nb_preprocessors/pull/1) in [kai-tub/common_nb_preprocessors](https://github.com/kai-tub/common_nb_preprocessors)
+3. ❗️ Closed issue [#1](https://github.com/conda-forge/bigearthnet-common-feedstock/issues/1) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
+4. ❌ Closed PR [#2](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/2) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
+5. 🗣 Commented on [#2](https://github.com/conda-forge/bigearthnet-common-feedstock/issues/2) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
 <!--END_SECTION:activity-->
 
 
