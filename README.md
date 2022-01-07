@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kai-tub/common_nb_preprocessors/pull/2) in [kai-tub/common_nb_preprocessors](https://github.com/kai-tub/common_nb_preprocessors)
-2. 💪 Opened PR [#2](https://github.com/kai-tub/common_nb_preprocessors/pull/2) in [kai-tub/common_nb_preprocessors](https://github.com/kai-tub/common_nb_preprocessors)
-3. ❗️ Opened issue [#1586](https://github.com/executablebooks/jupyter-book/issues/1586) in [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
-4. 🎉 Merged PR [#1](https://github.com/kai-tub/common_nb_preprocessors/pull/1) in [kai-tub/common_nb_preprocessors](https://github.com/kai-tub/common_nb_preprocessors)
-5. 💪 Opened PR [#1](https://github.com/kai-tub/common_nb_preprocessors/pull/1) in [kai-tub/common_nb_preprocessors](https://github.com/kai-tub/common_nb_preprocessors)
+1. ❗️ Opened issue [#11](https://github.com/kai-tub/bigearthnet_common/issues/11) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+2. ❗️ Opened issue [#5](https://github.com/kai-tub/bigearthnet_encoder/issues/5) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+3. ❗️ Closed issue [#4](https://github.com/kai-tub/bigearthnet_encoder/issues/4) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+4. ❗️ Opened issue [#4](https://github.com/kai-tub/bigearthnet_encoder/issues/4) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+5. ❗️ Opened issue [#3](https://github.com/kai-tub/bigearthnet_encoder/issues/3) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
 <!--END_SECTION:activity-->
 
 
