@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/kai-tub/bigearthnet_common/issues/11) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-2. ❗️ Opened issue [#5](https://github.com/kai-tub/bigearthnet_encoder/issues/5) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
-3. ❗️ Closed issue [#4](https://github.com/kai-tub/bigearthnet_encoder/issues/4) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
-4. ❗️ Opened issue [#4](https://github.com/kai-tub/bigearthnet_encoder/issues/4) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
-5. ❗️ Opened issue [#3](https://github.com/kai-tub/bigearthnet_encoder/issues/3) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+1. ❗️ Opened issue [#12](https://github.com/kai-tub/bigearthnet_common/issues/12) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+2. ❗️ Opened issue [#11](https://github.com/kai-tub/bigearthnet_common/issues/11) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+3. ❗️ Opened issue [#5](https://github.com/kai-tub/bigearthnet_encoder/issues/5) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+4. ❗️ Closed issue [#4](https://github.com/kai-tub/bigearthnet_encoder/issues/4) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+5. ❗️ Opened issue [#4](https://github.com/kai-tub/bigearthnet_encoder/issues/4) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
 <!--END_SECTION:activity-->
 
 
