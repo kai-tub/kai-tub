@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/kai-tub/bigearthnet_common/pull/22) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-2. 💪 Opened PR [#22](https://github.com/kai-tub/bigearthnet_common/pull/22) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-3. 🎉 Merged PR [#11](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/11) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
-4. 🎉 Merged PR [#21](https://github.com/kai-tub/bigearthnet_common/pull/21) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-5. 💪 Opened PR [#21](https://github.com/kai-tub/bigearthnet_common/pull/21) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+1. 🎉 Merged PR [#23](https://github.com/kai-tub/bigearthnet_common/pull/23) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+2. 💪 Opened PR [#23](https://github.com/kai-tub/bigearthnet_common/pull/23) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+3. 🎉 Merged PR [#22](https://github.com/kai-tub/bigearthnet_common/pull/22) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+4. 💪 Opened PR [#22](https://github.com/kai-tub/bigearthnet_common/pull/22) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+5. 🎉 Merged PR [#11](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/11) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
 <!--END_SECTION:activity-->
 
 
