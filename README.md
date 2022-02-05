@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/5) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
-2. 💪 Opened PR [#5](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/5) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
-3. 🎉 Merged PR [#23](https://github.com/kai-tub/bigearthnet_common/pull/23) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-4. 💪 Opened PR [#23](https://github.com/kai-tub/bigearthnet_common/pull/23) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-5. 🎉 Merged PR [#22](https://github.com/kai-tub/bigearthnet_common/pull/22) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+1. 🎉 Merged PR [#2](https://github.com/kai-tub/bigearthnet_patch_interface/pull/2) in [kai-tub/bigearthnet_patch_interface](https://github.com/kai-tub/bigearthnet_patch_interface)
+2. 💪 Opened PR [#2](https://github.com/kai-tub/bigearthnet_patch_interface/pull/2) in [kai-tub/bigearthnet_patch_interface](https://github.com/kai-tub/bigearthnet_patch_interface)
+3. 🎉 Merged PR [#9](https://github.com/kai-tub/bigearthnet_encoder/pull/9) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+4. 💪 Opened PR [#9](https://github.com/kai-tub/bigearthnet_encoder/pull/9) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+5. 🎉 Merged PR [#8](https://github.com/kai-tub/bigearthnet_encoder/pull/8) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
 <!--END_SECTION:activity-->
 
 
