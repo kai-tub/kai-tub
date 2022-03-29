@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2367](https://github.com/geopandas/geopandas/issues/2367) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+1. 🎉 Merged PR [#2](https://github.com/conda-forge/fastcore-feedstock/pull/2) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
 2. 🗣 Commented on [#2367](https://github.com/geopandas/geopandas/issues/2367) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-3. ❗️ Opened issue [#2367](https://github.com/geopandas/geopandas/issues/2367) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-4. 🎉 Merged PR [#1](https://github.com/conda-forge/fastcore-feedstock/pull/1) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-5. 🎉 Merged PR [#24](https://github.com/kai-tub/bigearthnet_common/pull/24) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+3. 🗣 Commented on [#2367](https://github.com/geopandas/geopandas/issues/2367) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+4. ❗️ Opened issue [#2367](https://github.com/geopandas/geopandas/issues/2367) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+5. 🎉 Merged PR [#1](https://github.com/conda-forge/fastcore-feedstock/pull/1) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
 <!--END_SECTION:activity-->
 
 
