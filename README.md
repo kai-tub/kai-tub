@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/conda-forge/fastcore-feedstock/pull/3) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-2. 🎉 Merged PR [#2](https://github.com/conda-forge/fastcore-feedstock/pull/2) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-3. 🗣 Commented on [#2367](https://github.com/geopandas/geopandas/issues/2367) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-4. 🗣 Commented on [#2367](https://github.com/geopandas/geopandas/issues/2367) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-5. ❗️ Opened issue [#2367](https://github.com/geopandas/geopandas/issues/2367) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+1. 🎉 Merged PR [#28](https://github.com/kai-tub/bigearthnet_common/pull/28) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+2. 💪 Opened PR [#28](https://github.com/kai-tub/bigearthnet_common/pull/28) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+3. 🎉 Merged PR [#27](https://github.com/kai-tub/bigearthnet_common/pull/27) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+4. 💪 Opened PR [#27](https://github.com/kai-tub/bigearthnet_common/pull/27) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+5. 🎉 Merged PR [#26](https://github.com/kai-tub/bigearthnet_common/pull/26) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
 <!--END_SECTION:activity-->
 
 
