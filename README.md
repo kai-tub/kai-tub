@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/kai-tub/bigearthnet_common/pull/28) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-2. 💪 Opened PR [#28](https://github.com/kai-tub/bigearthnet_common/pull/28) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-3. 🎉 Merged PR [#27](https://github.com/kai-tub/bigearthnet_common/pull/27) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-4. 💪 Opened PR [#27](https://github.com/kai-tub/bigearthnet_common/pull/27) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-5. 🎉 Merged PR [#26](https://github.com/kai-tub/bigearthnet_common/pull/26) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+1. ❗️ Opened issue [#486](https://github.com/asciinema/asciinema/issues/486) in [asciinema/asciinema](https://github.com/asciinema/asciinema)
+2. ❗️ Opened issue [#29](https://github.com/kai-tub/bigearthnet_common/issues/29) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+3. 🎉 Merged PR [#15](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/15) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
+4. ❌ Closed PR [#12](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/12) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
+5. ❌ Closed PR [#14](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/14) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
 <!--END_SECTION:activity-->
 
 
