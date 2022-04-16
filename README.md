@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/conda-forge/fastcore-feedstock/pull/4) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-2. ❗️ Opened issue [#486](https://github.com/asciinema/asciinema/issues/486) in [asciinema/asciinema](https://github.com/asciinema/asciinema)
-3. ❗️ Opened issue [#29](https://github.com/kai-tub/bigearthnet_common/issues/29) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-4. 🎉 Merged PR [#15](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/15) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
-5. ❌ Closed PR [#12](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/12) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
+1. 🎉 Merged PR [#15](https://github.com/kai-tub/external-repo-sync-action/pull/15) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
+2. 🎉 Merged PR [#4](https://github.com/conda-forge/fastcore-feedstock/pull/4) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+3. ❗️ Opened issue [#486](https://github.com/asciinema/asciinema/issues/486) in [asciinema/asciinema](https://github.com/asciinema/asciinema)
+4. ❗️ Opened issue [#29](https://github.com/kai-tub/bigearthnet_common/issues/29) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+5. 🎉 Merged PR [#15](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/15) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
 <!--END_SECTION:activity-->
 
 
