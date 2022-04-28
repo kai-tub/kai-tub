@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kai-tub/ip4rs-dependencies/pull/2) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
-2. 💪 Opened PR [#2](https://github.com/kai-tub/ip4rs-dependencies/pull/2) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
-3. 🎉 Merged PR [#1](https://github.com/kai-tub/ip4rs-dependencies/pull/1) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
-4. 💪 Opened PR [#1](https://github.com/kai-tub/ip4rs-dependencies/pull/1) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
-5. 🗣 Commented on [#15](https://github.com/kai-tub/external-repo-sync-action/issues/15) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
+1. 🎉 Merged PR [#3](https://github.com/kai-tub/ip4rs-dependencies/pull/3) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
+2. 💪 Opened PR [#3](https://github.com/kai-tub/ip4rs-dependencies/pull/3) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
+3. 🎉 Merged PR [#2](https://github.com/kai-tub/ip4rs-dependencies/pull/2) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
+4. 💪 Opened PR [#2](https://github.com/kai-tub/ip4rs-dependencies/pull/2) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
+5. 🎉 Merged PR [#1](https://github.com/kai-tub/ip4rs-dependencies/pull/1) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
 <!--END_SECTION:activity-->
 
 
