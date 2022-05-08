@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18872](https://github.com/conda-forge/staged-recipes/issues/18872) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
-2. 💪 Opened PR [#18872](https://github.com/conda-forge/staged-recipes/pull/18872) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
-3. 🎉 Merged PR [#9](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/9) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
-4. 💪 Opened PR [#9](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/9) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
-5. 🎉 Merged PR [#11](https://github.com/kai-tub/ben-docs/pull/11) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+1. 🗣 Commented on [#486](https://github.com/asciinema/asciinema/issues/486) in [asciinema/asciinema](https://github.com/asciinema/asciinema)
+2. 🗣 Commented on [#486](https://github.com/asciinema/asciinema/issues/486) in [asciinema/asciinema](https://github.com/asciinema/asciinema)
+3. 🗣 Commented on [#18872](https://github.com/conda-forge/staged-recipes/issues/18872) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+4. 💪 Opened PR [#18872](https://github.com/conda-forge/staged-recipes/pull/18872) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+5. 🎉 Merged PR [#9](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/9) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
 <!--END_SECTION:activity-->
 
 
