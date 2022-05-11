@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/kai-tub/bigearthnet_encoder/pull/16) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
-2. 💪 Opened PR [#16](https://github.com/kai-tub/bigearthnet_encoder/pull/16) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
-3. 🗣 Commented on [#18881](https://github.com/conda-forge/staged-recipes/issues/18881) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
-4. 💪 Opened PR [#18881](https://github.com/conda-forge/staged-recipes/pull/18881) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
-5. 🗣 Commented on [#486](https://github.com/asciinema/asciinema/issues/486) in [asciinema/asciinema](https://github.com/asciinema/asciinema)
+1. ❗️ Opened issue [#31](https://github.com/kai-tub/bigearthnet_common/issues/31) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+2. ❗️ Opened issue [#10](https://github.com/kai-tub/bigearthnet_gdf_builder/issues/10) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
+3. ❗️ Opened issue [#30](https://github.com/kai-tub/bigearthnet_common/issues/30) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+4. 🎉 Merged PR [#12](https://github.com/kai-tub/ben-docs/pull/12) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+5. 💪 Opened PR [#12](https://github.com/kai-tub/ben-docs/pull/12) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
 <!--END_SECTION:activity-->
 
 
