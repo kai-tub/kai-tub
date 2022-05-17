@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kai-tub/simple_downloader/pull/1) in [kai-tub/simple_downloader](https://github.com/kai-tub/simple_downloader)
-2. 💪 Opened PR [#1](https://github.com/kai-tub/simple_downloader/pull/1) in [kai-tub/simple_downloader](https://github.com/kai-tub/simple_downloader)
-3. 🎉 Merged PR [#13](https://github.com/kai-tub/ben-docs/pull/13) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-4. 💪 Opened PR [#13](https://github.com/kai-tub/ben-docs/pull/13) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-5. ❗️ Opened issue [#31](https://github.com/kai-tub/bigearthnet_common/issues/31) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+1. ❗️ Closed issue [#4](https://github.com/kai-tub/ben-docs/issues/4) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+2. 🗣 Commented on [#4](https://github.com/kai-tub/ben-docs/issues/4) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+3. ❗️ Closed issue [#9](https://github.com/kai-tub/ben-docs/issues/9) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+4. 🎉 Merged PR [#33](https://github.com/kai-tub/bigearthnet_common/pull/33) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+5. 💪 Opened PR [#33](https://github.com/kai-tub/bigearthnet_common/pull/33) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
 <!--END_SECTION:activity-->
 
 
