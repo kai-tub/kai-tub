@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/kai-tub/ben-docs/issues/4) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-2. 🗣 Commented on [#4](https://github.com/kai-tub/ben-docs/issues/4) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-3. ❗️ Closed issue [#9](https://github.com/kai-tub/ben-docs/issues/9) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-4. 🎉 Merged PR [#33](https://github.com/kai-tub/bigearthnet_common/pull/33) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-5. 💪 Opened PR [#33](https://github.com/kai-tub/bigearthnet_common/pull/33) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+1. ❌ Closed PR [#17](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/17) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
+2. 🎉 Merged PR [#19](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/19) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
+3. ❌ Closed PR [#16](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/16) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
+4. ❌ Closed PR [#18](https://github.com/conda-forge/bigearthnet-common-feedstock/pull/18) in [conda-forge/bigearthnet-common-feedstock](https://github.com/conda-forge/bigearthnet-common-feedstock)
+5. 🎉 Merged PR [#36](https://github.com/kai-tub/bigearthnet_common/pull/36) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
 <!--END_SECTION:activity-->
 
 
