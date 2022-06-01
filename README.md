@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/conda-forge/bigearthnet-encoder-feedstock/pull/2) in [conda-forge/bigearthnet-encoder-feedstock](https://github.com/conda-forge/bigearthnet-encoder-feedstock)
-2. ❗️ Closed issue [#30](https://github.com/kai-tub/bigearthnet_common/issues/30) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-3. 🗣 Commented on [#30](https://github.com/kai-tub/bigearthnet_common/issues/30) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-4. 🎉 Merged PR [#19](https://github.com/kai-tub/bigearthnet_encoder/pull/19) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
-5. 💪 Opened PR [#19](https://github.com/kai-tub/bigearthnet_encoder/pull/19) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+1. 🎉 Merged PR [#1](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock/pull/1) in [conda-forge/bigearthnet-patch-interface-feedstock](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock)
+2. 💪 Opened PR [#1](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock/pull/1) in [conda-forge/bigearthnet-patch-interface-feedstock](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock)
+3. 🎉 Merged PR [#7](https://github.com/kai-tub/bigearthnet_patch_interface/pull/7) in [kai-tub/bigearthnet_patch_interface](https://github.com/kai-tub/bigearthnet_patch_interface)
+4. 💪 Opened PR [#7](https://github.com/kai-tub/bigearthnet_patch_interface/pull/7) in [kai-tub/bigearthnet_patch_interface](https://github.com/kai-tub/bigearthnet_patch_interface)
+5. 🎉 Merged PR [#6](https://github.com/kai-tub/bigearthnet_patch_interface/pull/6) in [kai-tub/bigearthnet_patch_interface](https://github.com/kai-tub/bigearthnet_patch_interface)
 <!--END_SECTION:activity-->
 
 
