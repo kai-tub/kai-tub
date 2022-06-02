@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock/pull/1) in [conda-forge/bigearthnet-patch-interface-feedstock](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock)
-2. 💪 Opened PR [#1](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock/pull/1) in [conda-forge/bigearthnet-patch-interface-feedstock](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock)
-3. 🎉 Merged PR [#7](https://github.com/kai-tub/bigearthnet_patch_interface/pull/7) in [kai-tub/bigearthnet_patch_interface](https://github.com/kai-tub/bigearthnet_patch_interface)
-4. 💪 Opened PR [#7](https://github.com/kai-tub/bigearthnet_patch_interface/pull/7) in [kai-tub/bigearthnet_patch_interface](https://github.com/kai-tub/bigearthnet_patch_interface)
-5. 🎉 Merged PR [#6](https://github.com/kai-tub/bigearthnet_patch_interface/pull/6) in [kai-tub/bigearthnet_patch_interface](https://github.com/kai-tub/bigearthnet_patch_interface)
+1. 🎉 Merged PR [#20](https://github.com/kai-tub/bigearthnet_encoder/pull/20) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+2. 💪 Opened PR [#20](https://github.com/kai-tub/bigearthnet_encoder/pull/20) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+3. 🎉 Merged PR [#1](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock/pull/1) in [conda-forge/bigearthnet-patch-interface-feedstock](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock)
+4. 💪 Opened PR [#1](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock/pull/1) in [conda-forge/bigearthnet-patch-interface-feedstock](https://github.com/conda-forge/bigearthnet-patch-interface-feedstock)
+5. 🎉 Merged PR [#7](https://github.com/kai-tub/bigearthnet_patch_interface/pull/7) in [kai-tub/bigearthnet_patch_interface](https://github.com/kai-tub/bigearthnet_patch_interface)
 <!--END_SECTION:activity-->
 
 
