@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/kai-tub/bigearthnet_encoder/pull/21) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
-2. 💪 Opened PR [#21](https://github.com/kai-tub/bigearthnet_encoder/pull/21) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
-3. 🎉 Merged PR [#6](https://github.com/conda-forge/fastcore-feedstock/pull/6) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-4. 🎉 Merged PR [#20](https://github.com/kai-tub/bigearthnet_encoder/pull/20) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
-5. 💪 Opened PR [#20](https://github.com/kai-tub/bigearthnet_encoder/pull/20) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+1. ❗️ Opened issue [#46](https://github.com/leios/SoME_Topics/issues/46) in [leios/SoME_Topics](https://github.com/leios/SoME_Topics)
+2. 🎉 Merged PR [#21](https://github.com/kai-tub/bigearthnet_encoder/pull/21) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+3. 💪 Opened PR [#21](https://github.com/kai-tub/bigearthnet_encoder/pull/21) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
+4. 🎉 Merged PR [#6](https://github.com/conda-forge/fastcore-feedstock/pull/6) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+5. 🎉 Merged PR [#20](https://github.com/kai-tub/bigearthnet_encoder/pull/20) in [kai-tub/bigearthnet_encoder](https://github.com/kai-tub/bigearthnet_encoder)
 <!--END_SECTION:activity-->
 
 
