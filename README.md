@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-2. 🗣 Commented on [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+1. 💪 Opened PR [#362](https://github.com/tiangolo/sqlmodel/pull/362) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+2. ❗️ Closed issue [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
 3. 🗣 Commented on [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-4. ❗️ Opened issue [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-5. ❗️ Opened issue [#46](https://github.com/leios/SoME_Topics/issues/46) in [leios/SoME_Topics](https://github.com/leios/SoME_Topics)
+4. 🗣 Commented on [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+5. ❗️ Opened issue [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
 <!--END_SECTION:activity-->
 
 
