@@ -44,10 +44,10 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/conda-forge/fastcore-feedstock/pull/7) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-2. 💪 Opened PR [#362](https://github.com/tiangolo/sqlmodel/pull/362) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
-3. ❗️ Closed issue [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-4. 🗣 Commented on [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+1. ❗️ Opened issue [#59](https://github.com/merantix-momentum/squirrel-core/issues/59) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+2. 🎉 Merged PR [#7](https://github.com/conda-forge/fastcore-feedstock/pull/7) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+3. 💪 Opened PR [#362](https://github.com/tiangolo/sqlmodel/pull/362) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+4. ❗️ Closed issue [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
 5. 🗣 Commented on [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
 <!--END_SECTION:activity-->
 
