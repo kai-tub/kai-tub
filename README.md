@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#60](https://github.com/merantix-momentum/squirrel-core/issues/60) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
-2. ❗️ Opened issue [#59](https://github.com/merantix-momentum/squirrel-core/issues/59) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
-3. 🎉 Merged PR [#7](https://github.com/conda-forge/fastcore-feedstock/pull/7) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-4. 💪 Opened PR [#362](https://github.com/tiangolo/sqlmodel/pull/362) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
-5. ❗️ Closed issue [#2457](https://github.com/geopandas/geopandas/issues/2457) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+1. 🗣 Commented on [#465](https://github.com/agronholm/apscheduler/issues/465) in [agronholm/apscheduler](https://github.com/agronholm/apscheduler)
+2. ❗️ Opened issue [#60](https://github.com/merantix-momentum/squirrel-core/issues/60) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+3. ❗️ Opened issue [#59](https://github.com/merantix-momentum/squirrel-core/issues/59) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+4. 🎉 Merged PR [#7](https://github.com/conda-forge/fastcore-feedstock/pull/7) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+5. 💪 Opened PR [#362](https://github.com/tiangolo/sqlmodel/pull/362) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
 <!--END_SECTION:activity-->
 
 
