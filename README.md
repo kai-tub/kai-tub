@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+1. 💪 Opened PR [#65](https://github.com/merantix-momentum/squirrel-core/pull/65) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
 2. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
-3. 💪 Opened PR [#61](https://github.com/merantix-momentum/squirrel-core/pull/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
-4. 🗣 Commented on [#465](https://github.com/agronholm/apscheduler/issues/465) in [agronholm/apscheduler](https://github.com/agronholm/apscheduler)
-5. ❗️ Opened issue [#60](https://github.com/merantix-momentum/squirrel-core/issues/60) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+3. 🗣 Commented on [#59](https://github.com/merantix-momentum/squirrel-core/issues/59) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+4. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+5. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
 <!--END_SECTION:activity-->
 
 
