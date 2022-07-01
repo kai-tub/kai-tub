@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/merantix-momentum/squirrel-core/pull/65) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
-2. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
-3. 🗣 Commented on [#59](https://github.com/merantix-momentum/squirrel-core/issues/59) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+1. 🎉 Merged PR [#4](https://github.com/kai-tub/ip4rs-dependencies/pull/4) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
+2. 💪 Opened PR [#4](https://github.com/kai-tub/ip4rs-dependencies/pull/4) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
+3. 💪 Opened PR [#65](https://github.com/merantix-momentum/squirrel-core/pull/65) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
 4. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
-5. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+5. 🗣 Commented on [#59](https://github.com/merantix-momentum/squirrel-core/issues/59) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
 <!--END_SECTION:activity-->
 
 
