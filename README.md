@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
-2. 🎉 Merged PR [#1](https://github.com/kai-tub/squirrel-core/pull/1) in [kai-tub/squirrel-core](https://github.com/kai-tub/squirrel-core)
-3. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
-4. 💪 Opened PR [#1](https://github.com/kai-tub/squirrel-core/pull/1) in [kai-tub/squirrel-core](https://github.com/kai-tub/squirrel-core)
-5. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+1. ❗️ Opened issue [#8070](https://github.com/whatwg/html/issues/8070) in [whatwg/html](https://github.com/whatwg/html)
+2. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+3. 🎉 Merged PR [#1](https://github.com/kai-tub/squirrel-core/pull/1) in [kai-tub/squirrel-core](https://github.com/kai-tub/squirrel-core)
+4. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+5. 💪 Opened PR [#1](https://github.com/kai-tub/squirrel-core/pull/1) in [kai-tub/squirrel-core](https://github.com/kai-tub/squirrel-core)
 <!--END_SECTION:activity-->
 
 
