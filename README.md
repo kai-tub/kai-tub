@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/conda-forge/bigearthnet-gdf-builder-feedstock/pull/1) in [conda-forge/bigearthnet-gdf-builder-feedstock](https://github.com/conda-forge/bigearthnet-gdf-builder-feedstock)
+1. 🗣 Commented on [#65](https://github.com/merantix-momentum/squirrel-core/issues/65) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
 2. 🗣 Commented on [#65](https://github.com/merantix-momentum/squirrel-core/issues/65) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
-3. 🎉 Merged PR [#11](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/11) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
-4. 💪 Opened PR [#11](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/11) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
-5. 🗣 Commented on [#61](https://github.com/merantix-momentum/squirrel-core/issues/61) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+3. 🎉 Merged PR [#1](https://github.com/conda-forge/bigearthnet-gdf-builder-feedstock/pull/1) in [conda-forge/bigearthnet-gdf-builder-feedstock](https://github.com/conda-forge/bigearthnet-gdf-builder-feedstock)
+4. 🗣 Commented on [#65](https://github.com/merantix-momentum/squirrel-core/issues/65) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+5. 🎉 Merged PR [#11](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/11) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
 <!--END_SECTION:activity-->
 
 
