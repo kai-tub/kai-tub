@@ -44,8 +44,8 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/conda-forge/fastcore-feedstock/pull/8) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-2. 🗣 Commented on [#65](https://github.com/merantix-momentum/squirrel-core/issues/65) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
+1. 💪 Opened PR [#2](https://github.com/carstencodes/pdm-bump/pull/2) in [carstencodes/pdm-bump](https://github.com/carstencodes/pdm-bump)
+2. 🎉 Merged PR [#8](https://github.com/conda-forge/fastcore-feedstock/pull/8) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
 3. 🗣 Commented on [#65](https://github.com/merantix-momentum/squirrel-core/issues/65) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
 4. 🗣 Commented on [#65](https://github.com/merantix-momentum/squirrel-core/issues/65) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
 5. 🗣 Commented on [#65](https://github.com/merantix-momentum/squirrel-core/issues/65) in [merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)
