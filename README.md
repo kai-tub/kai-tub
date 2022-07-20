@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#360](https://github.com/executablebooks/MyST-NB/issues/360) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. ❗️ Closed issue [#360](https://github.com/executablebooks/MyST-NB/issues/360) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-3. 🎉 Merged PR [#3](https://github.com/kai-tub/common-nb-preprocessors/pull/3) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
-4. 💪 Opened PR [#3](https://github.com/kai-tub/common-nb-preprocessors/pull/3) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
-5. 🎉 Merged PR [#2](https://github.com/kai-tub/common-nb-preprocessors/pull/2) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+1. 💪 Opened PR [#6](https://github.com/kai-tub/common-nb-preprocessors/pull/6) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+2. 🎉 Merged PR [#5](https://github.com/kai-tub/common-nb-preprocessors/pull/5) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+3. 💪 Opened PR [#5](https://github.com/kai-tub/common-nb-preprocessors/pull/5) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+4. 🎉 Merged PR [#4](https://github.com/kai-tub/common-nb-preprocessors/pull/4) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+5. 💪 Opened PR [#4](https://github.com/kai-tub/common-nb-preprocessors/pull/4) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
 <!--END_SECTION:activity-->
 
 
