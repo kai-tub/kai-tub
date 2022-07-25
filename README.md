@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/kai-tub/common-nb-preprocessors/pull/7) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
-2. 💪 Opened PR [#7](https://github.com/kai-tub/common-nb-preprocessors/pull/7) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
-3. 🎉 Merged PR [#6](https://github.com/kai-tub/common-nb-preprocessors/pull/6) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
-4. 💪 Opened PR [#6](https://github.com/kai-tub/common-nb-preprocessors/pull/6) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
-5. 🎉 Merged PR [#5](https://github.com/kai-tub/common-nb-preprocessors/pull/5) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+1. 🎉 Merged PR [#10](https://github.com/kai-tub/common-nb-preprocessors/pull/10) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+2. 💪 Opened PR [#10](https://github.com/kai-tub/common-nb-preprocessors/pull/10) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+3. 🎉 Merged PR [#9](https://github.com/kai-tub/common-nb-preprocessors/pull/9) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+4. 💪 Opened PR [#9](https://github.com/kai-tub/common-nb-preprocessors/pull/9) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+5. 🎉 Merged PR [#8](https://github.com/kai-tub/common-nb-preprocessors/pull/8) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
 <!--END_SECTION:activity-->
 
 
