@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/conda-forge/fastcore-feedstock/pull/13) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-2. 🎉 Merged PR [#10](https://github.com/kai-tub/common-nb-preprocessors/pull/10) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
-3. 💪 Opened PR [#10](https://github.com/kai-tub/common-nb-preprocessors/pull/10) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
-4. 🎉 Merged PR [#9](https://github.com/kai-tub/common-nb-preprocessors/pull/9) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
-5. 💪 Opened PR [#9](https://github.com/kai-tub/common-nb-preprocessors/pull/9) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+1. ❌ Closed PR [#14](https://github.com/conda-forge/fastcore-feedstock/pull/14) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+2. 🎉 Merged PR [#15](https://github.com/conda-forge/fastcore-feedstock/pull/15) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+3. 🎉 Merged PR [#13](https://github.com/conda-forge/fastcore-feedstock/pull/13) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+4. 🎉 Merged PR [#10](https://github.com/kai-tub/common-nb-preprocessors/pull/10) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+5. 💪 Opened PR [#10](https://github.com/kai-tub/common-nb-preprocessors/pull/10) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
 <!--END_SECTION:activity-->
 
 
