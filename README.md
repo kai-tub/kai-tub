@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/conda-forge/fastcore-feedstock/pull/24) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-2. 🎉 Merged PR [#23](https://github.com/conda-forge/fastcore-feedstock/pull/23) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-3. 🎉 Merged PR [#22](https://github.com/conda-forge/fastcore-feedstock/pull/22) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-4. 🎉 Merged PR [#21](https://github.com/conda-forge/fastcore-feedstock/pull/21) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-5. 🎉 Merged PR [#20](https://github.com/conda-forge/fastcore-feedstock/pull/20) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+1. 🎉 Merged PR [#25](https://github.com/conda-forge/fastcore-feedstock/pull/25) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+2. 🎉 Merged PR [#24](https://github.com/conda-forge/fastcore-feedstock/pull/24) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+3. 🎉 Merged PR [#23](https://github.com/conda-forge/fastcore-feedstock/pull/23) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+4. 🎉 Merged PR [#22](https://github.com/conda-forge/fastcore-feedstock/pull/22) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+5. 🎉 Merged PR [#21](https://github.com/conda-forge/fastcore-feedstock/pull/21) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
 <!--END_SECTION:activity-->
 
 
