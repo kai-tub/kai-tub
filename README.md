@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#465](https://github.com/agronholm/apscheduler/issues/465) in [agronholm/apscheduler](https://github.com/agronholm/apscheduler)
-2. 🎉 Merged PR [#27](https://github.com/conda-forge/fastcore-feedstock/pull/27) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-3. 🎉 Merged PR [#26](https://github.com/conda-forge/fastcore-feedstock/pull/26) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-4. 🎉 Merged PR [#25](https://github.com/conda-forge/fastcore-feedstock/pull/25) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-5. 🎉 Merged PR [#24](https://github.com/conda-forge/fastcore-feedstock/pull/24) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+1. 🎉 Merged PR [#28](https://github.com/conda-forge/fastcore-feedstock/pull/28) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+2. 🗣 Commented on [#465](https://github.com/agronholm/apscheduler/issues/465) in [agronholm/apscheduler](https://github.com/agronholm/apscheduler)
+3. 🎉 Merged PR [#27](https://github.com/conda-forge/fastcore-feedstock/pull/27) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+4. 🎉 Merged PR [#26](https://github.com/conda-forge/fastcore-feedstock/pull/26) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+5. 🎉 Merged PR [#25](https://github.com/conda-forge/fastcore-feedstock/pull/25) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
 <!--END_SECTION:activity-->
 
 
