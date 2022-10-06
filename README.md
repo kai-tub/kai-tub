@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/conda-forge/fastcore-feedstock/pull/28) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-2. 🗣 Commented on [#465](https://github.com/agronholm/apscheduler/issues/465) in [agronholm/apscheduler](https://github.com/agronholm/apscheduler)
-3. 🎉 Merged PR [#27](https://github.com/conda-forge/fastcore-feedstock/pull/27) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-4. 🎉 Merged PR [#26](https://github.com/conda-forge/fastcore-feedstock/pull/26) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-5. 🎉 Merged PR [#25](https://github.com/conda-forge/fastcore-feedstock/pull/25) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+1. 🗣 Commented on [#446](https://github.com/executablebooks/MyST-NB/issues/446) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. ❗️ Opened issue [#2582](https://github.com/geopandas/geopandas/issues/2582) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+3. 🎉 Merged PR [#28](https://github.com/conda-forge/fastcore-feedstock/pull/28) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+4. 🗣 Commented on [#465](https://github.com/agronholm/apscheduler/issues/465) in [agronholm/apscheduler](https://github.com/agronholm/apscheduler)
+5. 🎉 Merged PR [#27](https://github.com/conda-forge/fastcore-feedstock/pull/27) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
 <!--END_SECTION:activity-->
 
 
