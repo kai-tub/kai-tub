@@ -45,10 +45,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#446](https://github.com/executablebooks/MyST-NB/issues/446) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. ❗️ Opened issue [#2582](https://github.com/geopandas/geopandas/issues/2582) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-3. 🎉 Merged PR [#28](https://github.com/conda-forge/fastcore-feedstock/pull/28) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-4. 🗣 Commented on [#465](https://github.com/agronholm/apscheduler/issues/465) in [agronholm/apscheduler](https://github.com/agronholm/apscheduler)
-5. 🎉 Merged PR [#27](https://github.com/conda-forge/fastcore-feedstock/pull/27) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+2. 🗣 Commented on [#837](https://github.com/executablebooks/meta/issues/837) in [executablebooks/meta](https://github.com/executablebooks/meta)
+3. 🗣 Commented on [#835](https://github.com/executablebooks/meta/issues/835) in [executablebooks/meta](https://github.com/executablebooks/meta)
+4. 🗣 Commented on [#446](https://github.com/executablebooks/MyST-NB/issues/446) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+5. 🗣 Commented on [#446](https://github.com/executablebooks/MyST-NB/issues/446) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
 
 
