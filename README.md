@@ -45,9 +45,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#446](https://github.com/executablebooks/MyST-NB/issues/446) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
-2. 🗣 Commented on [#837](https://github.com/executablebooks/meta/issues/837) in [executablebooks/meta](https://github.com/executablebooks/meta)
-3. 🗣 Commented on [#835](https://github.com/executablebooks/meta/issues/835) in [executablebooks/meta](https://github.com/executablebooks/meta)
-4. 🗣 Commented on [#446](https://github.com/executablebooks/MyST-NB/issues/446) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+2. 🗣 Commented on [#446](https://github.com/executablebooks/MyST-NB/issues/446) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
+3. 🗣 Commented on [#837](https://github.com/executablebooks/meta/issues/837) in [executablebooks/meta](https://github.com/executablebooks/meta)
+4. 🗣 Commented on [#835](https://github.com/executablebooks/meta/issues/835) in [executablebooks/meta](https://github.com/executablebooks/meta)
 5. 🗣 Commented on [#446](https://github.com/executablebooks/MyST-NB/issues/446) in [executablebooks/MyST-NB](https://github.com/executablebooks/MyST-NB)
 <!--END_SECTION:activity-->
 
