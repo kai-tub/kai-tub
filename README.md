@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/kai-tub/sphinx_cli_recorder/pull/9) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
-2. 💪 Opened PR [#9](https://github.com/kai-tub/sphinx_cli_recorder/pull/9) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
-3. 🎉 Merged PR [#8](https://github.com/kai-tub/sphinx_cli_recorder/pull/8) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
-4. 💪 Opened PR [#8](https://github.com/kai-tub/sphinx_cli_recorder/pull/8) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
-5. ❗️ Closed issue [#5](https://github.com/kai-tub/sphinx_cli_recorder/issues/5) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
+1. ❗️ Opened issue [#525](https://github.com/asciinema/asciinema/issues/525) in [asciinema/asciinema](https://github.com/asciinema/asciinema)
+2. 🎉 Merged PR [#9](https://github.com/kai-tub/sphinx_cli_recorder/pull/9) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
+3. 💪 Opened PR [#9](https://github.com/kai-tub/sphinx_cli_recorder/pull/9) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
+4. 🎉 Merged PR [#8](https://github.com/kai-tub/sphinx_cli_recorder/pull/8) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
+5. 💪 Opened PR [#8](https://github.com/kai-tub/sphinx_cli_recorder/pull/8) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
 <!--END_SECTION:activity-->
 
 
