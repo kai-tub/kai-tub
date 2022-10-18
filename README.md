@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#525](https://github.com/asciinema/asciinema/issues/525) in [asciinema/asciinema](https://github.com/asciinema/asciinema)
-2. 🎉 Merged PR [#9](https://github.com/kai-tub/sphinx_cli_recorder/pull/9) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
-3. 💪 Opened PR [#9](https://github.com/kai-tub/sphinx_cli_recorder/pull/9) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
-4. 🎉 Merged PR [#8](https://github.com/kai-tub/sphinx_cli_recorder/pull/8) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
-5. 💪 Opened PR [#8](https://github.com/kai-tub/sphinx_cli_recorder/pull/8) in [kai-tub/sphinx_cli_recorder](https://github.com/kai-tub/sphinx_cli_recorder)
+1. ❗️ Closed issue [#12](https://github.com/kai-tub/bigearthnet_gdf_builder/issues/12) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
+2. 🎉 Merged PR [#13](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/13) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
+3. ❗️ Closed issue [#10](https://github.com/kai-tub/bigearthnet_gdf_builder/issues/10) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
+4. 💪 Opened PR [#13](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/13) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
+5. 🎉 Merged PR [#9](https://github.com/kai-tub/bigearthnet_patch_interface/pull/9) in [kai-tub/bigearthnet_patch_interface](https://github.com/kai-tub/bigearthnet_patch_interface)
 <!--END_SECTION:activity-->
 
 
