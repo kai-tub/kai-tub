@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/kai-tub/bigearthnet_gdf_builder/issues/12) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
-2. 🎉 Merged PR [#13](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/13) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
-3. ❗️ Closed issue [#10](https://github.com/kai-tub/bigearthnet_gdf_builder/issues/10) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
-4. 💪 Opened PR [#13](https://github.com/kai-tub/bigearthnet_gdf_builder/pull/13) in [kai-tub/bigearthnet_gdf_builder](https://github.com/kai-tub/bigearthnet_gdf_builder)
-5. 🎉 Merged PR [#9](https://github.com/kai-tub/bigearthnet_patch_interface/pull/9) in [kai-tub/bigearthnet_patch_interface](https://github.com/kai-tub/bigearthnet_patch_interface)
+1. 🎉 Merged PR [#15](https://github.com/kai-tub/ben-docs/pull/15) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+2. 💪 Opened PR [#15](https://github.com/kai-tub/ben-docs/pull/15) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+3. 🎉 Merged PR [#14](https://github.com/kai-tub/common-nb-preprocessors/pull/14) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+4. 💪 Opened PR [#14](https://github.com/kai-tub/common-nb-preprocessors/pull/14) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
+5. 🎉 Merged PR [#41](https://github.com/kai-tub/bigearthnet_common/pull/41) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
 <!--END_SECTION:activity-->
 
 
