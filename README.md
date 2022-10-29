@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/kai-tub/ben-docs/pull/15) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-2. 💪 Opened PR [#15](https://github.com/kai-tub/ben-docs/pull/15) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-3. 🎉 Merged PR [#14](https://github.com/kai-tub/common-nb-preprocessors/pull/14) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
-4. 💪 Opened PR [#14](https://github.com/kai-tub/common-nb-preprocessors/pull/14) in [kai-tub/common-nb-preprocessors](https://github.com/kai-tub/common-nb-preprocessors)
-5. 🎉 Merged PR [#41](https://github.com/kai-tub/bigearthnet_common/pull/41) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+1. 🎉 Merged PR [#42](https://github.com/kai-tub/bigearthnet_common/pull/42) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+2. 💪 Opened PR [#42](https://github.com/kai-tub/bigearthnet_common/pull/42) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+3. 🎉 Merged PR [#16](https://github.com/kai-tub/ben-docs/pull/16) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+4. 💪 Opened PR [#16](https://github.com/kai-tub/ben-docs/pull/16) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+5. 🎉 Merged PR [#15](https://github.com/kai-tub/ben-docs/pull/15) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
 <!--END_SECTION:activity-->
 
 
