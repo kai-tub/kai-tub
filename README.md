@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/kai-tub/bigearthnet_common/pull/42) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-2. 💪 Opened PR [#42](https://github.com/kai-tub/bigearthnet_common/pull/42) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
-3. 🎉 Merged PR [#16](https://github.com/kai-tub/ben-docs/pull/16) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-4. 💪 Opened PR [#16](https://github.com/kai-tub/ben-docs/pull/16) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-5. 🎉 Merged PR [#15](https://github.com/kai-tub/ben-docs/pull/15) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+1. ❗️ Opened issue [#1](https://github.com/polygon/scalpel/issues/1) in [polygon/scalpel](https://github.com/polygon/scalpel)
+2. 🎉 Merged PR [#42](https://github.com/kai-tub/bigearthnet_common/pull/42) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+3. 💪 Opened PR [#42](https://github.com/kai-tub/bigearthnet_common/pull/42) in [kai-tub/bigearthnet_common](https://github.com/kai-tub/bigearthnet_common)
+4. 🎉 Merged PR [#16](https://github.com/kai-tub/ben-docs/pull/16) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+5. 💪 Opened PR [#16](https://github.com/kai-tub/ben-docs/pull/16) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
 <!--END_SECTION:activity-->
 
 
