@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/kai-tub/ben-docs/issues/23) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-2. 🎉 Merged PR [#24](https://github.com/kai-tub/ben-docs/pull/24) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-3. 💪 Opened PR [#24](https://github.com/kai-tub/ben-docs/pull/24) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-4. ❗️ Opened issue [#23](https://github.com/kai-tub/ben-docs/issues/23) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-5. ❗️ Opened issue [#22](https://github.com/kai-tub/ben-docs/issues/22) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+1. ❗️ Opened issue [#86](https://github.com/executablebooks/sphinx-external-toc/issues/86) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+2. ❗️ Closed issue [#23](https://github.com/kai-tub/ben-docs/issues/23) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+3. 🎉 Merged PR [#24](https://github.com/kai-tub/ben-docs/pull/24) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+4. 💪 Opened PR [#24](https://github.com/kai-tub/ben-docs/pull/24) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+5. ❗️ Opened issue [#23](https://github.com/kai-tub/ben-docs/issues/23) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
 <!--END_SECTION:activity-->
 
 
