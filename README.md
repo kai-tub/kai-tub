@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/76) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-2. ❗️ Opened issue [#86](https://github.com/executablebooks/sphinx-external-toc/issues/86) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
-3. ❗️ Closed issue [#23](https://github.com/kai-tub/ben-docs/issues/23) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-4. 🎉 Merged PR [#24](https://github.com/kai-tub/ben-docs/pull/24) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-5. 💪 Opened PR [#24](https://github.com/kai-tub/ben-docs/pull/24) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+1. 🗣 Commented on [#77](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/77) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+2. 🗣 Commented on [#76](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/76) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+3. ❗️ Opened issue [#86](https://github.com/executablebooks/sphinx-external-toc/issues/86) in [executablebooks/sphinx-external-toc](https://github.com/executablebooks/sphinx-external-toc)
+4. ❗️ Closed issue [#23](https://github.com/kai-tub/ben-docs/issues/23) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+5. 🎉 Merged PR [#24](https://github.com/kai-tub/ben-docs/pull/24) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
 <!--END_SECTION:activity-->
 
 
