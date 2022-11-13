@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#78](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/78) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-2. ❗️ Closed issue [#76](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/76) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-3. 🎉 Merged PR [#77](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/77) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-4. 🗣 Commented on [#77](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/77) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-5. 🗣 Commented on [#77](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/77) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+1. 💪 Opened PR [#81](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/81) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+2. ❗️ Opened issue [#80](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/80) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+3. ❗️ Closed issue [#78](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/78) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+4. 🎉 Merged PR [#79](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/79) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+5. 💪 Opened PR [#79](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/79) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
 <!--END_SECTION:activity-->
 
 
