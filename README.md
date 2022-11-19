@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1741](https://github.com/googleapis/release-please/issues/1741) in [googleapis/release-please](https://github.com/googleapis/release-please)
-2. ❗️ Opened issue [#82](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/82) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-3. ❗️ Closed issue [#80](https://github.com/kai-tub/latex-beamer-pure-minimalistic/issues/80) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-4. 🎉 Merged PR [#81](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/81) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-5. 💪 Opened PR [#81](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/81) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+1. 🎉 Merged PR [#11](https://github.com/kai-tub/monorepo-test/pull/11) in [kai-tub/monorepo-test](https://github.com/kai-tub/monorepo-test)
+2. 🎉 Merged PR [#10](https://github.com/kai-tub/monorepo-test/pull/10) in [kai-tub/monorepo-test](https://github.com/kai-tub/monorepo-test)
+3. 🎉 Merged PR [#9](https://github.com/kai-tub/monorepo-test/pull/9) in [kai-tub/monorepo-test](https://github.com/kai-tub/monorepo-test)
+4. 🎉 Merged PR [#8](https://github.com/kai-tub/monorepo-test/pull/8) in [kai-tub/monorepo-test](https://github.com/kai-tub/monorepo-test)
+5. 🎉 Merged PR [#7](https://github.com/kai-tub/monorepo-test/pull/7) in [kai-tub/monorepo-test](https://github.com/kai-tub/monorepo-test)
 <!--END_SECTION:activity-->
 
 
