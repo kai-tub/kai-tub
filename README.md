@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#837](https://github.com/executablebooks/meta/issues/837) in [executablebooks/meta](https://github.com/executablebooks/meta)
-2. ❗️ Opened issue [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
-3. ❗️ Opened issue [#81](https://github.com/str4d/age-plugin-yubikey/issues/81) in [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey)
-4. 🎉 Merged PR [#11](https://github.com/kai-tub/monorepo-test/pull/11) in [kai-tub/monorepo-test](https://github.com/kai-tub/monorepo-test)
-5. 🎉 Merged PR [#10](https://github.com/kai-tub/monorepo-test/pull/10) in [kai-tub/monorepo-test](https://github.com/kai-tub/monorepo-test)
+1. 🗣 Commented on [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
+2. 🗣 Commented on [#837](https://github.com/executablebooks/meta/issues/837) in [executablebooks/meta](https://github.com/executablebooks/meta)
+3. ❗️ Opened issue [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
+4. ❗️ Opened issue [#81](https://github.com/str4d/age-plugin-yubikey/issues/81) in [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey)
+5. 🎉 Merged PR [#11](https://github.com/kai-tub/monorepo-test/pull/11) in [kai-tub/monorepo-test](https://github.com/kai-tub/monorepo-test)
 <!--END_SECTION:activity-->
 
 
