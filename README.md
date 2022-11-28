@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#97](https://github.com/executablebooks/mystjs/issues/97) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
-2. 🗣 Commented on [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
-3. 🗣 Commented on [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
-4. 🗣 Commented on [#837](https://github.com/executablebooks/meta/issues/837) in [executablebooks/meta](https://github.com/executablebooks/meta)
-5. ❗️ Opened issue [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
+1. 🗣 Commented on [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
+2. 🗣 Commented on [#97](https://github.com/executablebooks/mystjs/issues/97) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
+3. ❗️ Opened issue [#97](https://github.com/executablebooks/mystjs/issues/97) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
+4. 🗣 Commented on [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
+5. 🗣 Commented on [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
 <!--END_SECTION:activity-->
 
 
