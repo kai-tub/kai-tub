@@ -44,10 +44,10 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
-2. 🗣 Commented on [#97](https://github.com/executablebooks/mystjs/issues/97) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
-3. ❗️ Opened issue [#97](https://github.com/executablebooks/mystjs/issues/97) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
-4. 🗣 Commented on [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
+1. 🗣 Commented on [#1741](https://github.com/googleapis/release-please/issues/1741) in [googleapis/release-please](https://github.com/googleapis/release-please)
+2. 🗣 Commented on [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
+3. 🗣 Commented on [#97](https://github.com/executablebooks/mystjs/issues/97) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
+4. ❗️ Opened issue [#97](https://github.com/executablebooks/mystjs/issues/97) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
 5. 🗣 Commented on [#84](https://github.com/executablebooks/mystjs/issues/84) in [executablebooks/mystjs](https://github.com/executablebooks/mystjs)
 <!--END_SECTION:activity-->
 
