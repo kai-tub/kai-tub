@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1329](https://github.com/rust-lang/rustlings/issues/1329) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-2. 🗣 Commented on [#81](https://github.com/str4d/age-plugin-yubikey/issues/81) in [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey)
-3. 🗣 Commented on [#2357](https://github.com/jellyfin/jellyfin-androidtv/issues/2357) in [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv)
-4. 🗣 Commented on [#81](https://github.com/str4d/age-plugin-yubikey/issues/81) in [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey)
-5. 🗣 Commented on [#1741](https://github.com/googleapis/release-please/issues/1741) in [googleapis/release-please](https://github.com/googleapis/release-please)
+1. 🗣 Commented on [#1](https://github.com/polygon/scalpel/issues/1) in [polygon/scalpel](https://github.com/polygon/scalpel)
+2. ❗️ Opened issue [#1329](https://github.com/rust-lang/rustlings/issues/1329) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+3. 🗣 Commented on [#81](https://github.com/str4d/age-plugin-yubikey/issues/81) in [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey)
+4. 🗣 Commented on [#2357](https://github.com/jellyfin/jellyfin-androidtv/issues/2357) in [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv)
+5. 🗣 Commented on [#81](https://github.com/str4d/age-plugin-yubikey/issues/81) in [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey)
 <!--END_SECTION:activity-->
 
 
