@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/kai-tub/ben-docs/pull/25) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-2. 💪 Opened PR [#25](https://github.com/kai-tub/ben-docs/pull/25) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-3. 🗣 Commented on [#1](https://github.com/polygon/scalpel/issues/1) in [polygon/scalpel](https://github.com/polygon/scalpel)
-4. ❗️ Opened issue [#1329](https://github.com/rust-lang/rustlings/issues/1329) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-5. 🗣 Commented on [#81](https://github.com/str4d/age-plugin-yubikey/issues/81) in [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey)
+1. 💪 Opened PR [#28](https://github.com/kai-tub/ben-docs/pull/28) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+2. 🎉 Merged PR [#27](https://github.com/kai-tub/ben-docs/pull/27) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+3. 💪 Opened PR [#27](https://github.com/kai-tub/ben-docs/pull/27) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+4. 🎉 Merged PR [#26](https://github.com/kai-tub/ben-docs/pull/26) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+5. 💪 Opened PR [#26](https://github.com/kai-tub/ben-docs/pull/26) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
 <!--END_SECTION:activity-->
 
 
