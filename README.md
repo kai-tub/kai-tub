@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/kai-tub/ben-docs/pull/28) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-2. 🎉 Merged PR [#27](https://github.com/kai-tub/ben-docs/pull/27) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-3. 💪 Opened PR [#27](https://github.com/kai-tub/ben-docs/pull/27) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-4. 🎉 Merged PR [#26](https://github.com/kai-tub/ben-docs/pull/26) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-5. 💪 Opened PR [#26](https://github.com/kai-tub/ben-docs/pull/26) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+1. 🎉 Merged PR [#29](https://github.com/kai-tub/ben-docs/pull/29) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+2. 💪 Opened PR [#29](https://github.com/kai-tub/ben-docs/pull/29) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+3. 🎉 Merged PR [#28](https://github.com/kai-tub/ben-docs/pull/28) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+4. ❗️ Closed issue [#20](https://github.com/kai-tub/ben-docs/issues/20) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+5. 🗣 Commented on [#20](https://github.com/kai-tub/ben-docs/issues/20) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
 <!--END_SECTION:activity-->
 
 
