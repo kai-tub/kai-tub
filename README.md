@@ -44,10 +44,10 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1543](https://github.com/tailscale/tailscale/issues/1543) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-2. ❗️ Closed issue [#321](https://github.com/cachix/devenv/issues/321) in [cachix/devenv](https://github.com/cachix/devenv)
-3. 🗣 Commented on [#321](https://github.com/cachix/devenv/issues/321) in [cachix/devenv](https://github.com/cachix/devenv)
-4. 🗣 Commented on [#321](https://github.com/cachix/devenv/issues/321) in [cachix/devenv](https://github.com/cachix/devenv)
+1. 🎉 Merged PR [#30](https://github.com/kai-tub/ben-docs/pull/30) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+2. 💪 Opened PR [#30](https://github.com/kai-tub/ben-docs/pull/30) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+3. 🗣 Commented on [#1543](https://github.com/tailscale/tailscale/issues/1543) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+4. ❗️ Closed issue [#321](https://github.com/cachix/devenv/issues/321) in [cachix/devenv](https://github.com/cachix/devenv)
 5. 🗣 Commented on [#321](https://github.com/cachix/devenv/issues/321) in [cachix/devenv](https://github.com/cachix/devenv)
 <!--END_SECTION:activity-->
 
