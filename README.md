@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/conda-forge/fastcore-feedstock/pull/31) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-2. ❌ Closed PR [#29](https://github.com/conda-forge/fastcore-feedstock/pull/29) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-3. 🎉 Merged PR [#30](https://github.com/conda-forge/fastcore-feedstock/pull/30) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-4. 🗣 Commented on [#258](https://github.com/cachix/devenv/issues/258) in [cachix/devenv](https://github.com/cachix/devenv)
-5. 🗣 Commented on [#81](https://github.com/str4d/age-plugin-yubikey/issues/81) in [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey)
+1. ❗️ Closed issue [#1](https://github.com/kai-tub/nix-config/issues/1) in [kai-tub/nix-config](https://github.com/kai-tub/nix-config)
+2. 🎉 Merged PR [#31](https://github.com/conda-forge/fastcore-feedstock/pull/31) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+3. ❌ Closed PR [#29](https://github.com/conda-forge/fastcore-feedstock/pull/29) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+4. 🎉 Merged PR [#30](https://github.com/conda-forge/fastcore-feedstock/pull/30) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+5. 🗣 Commented on [#258](https://github.com/cachix/devenv/issues/258) in [cachix/devenv](https://github.com/cachix/devenv)
 <!--END_SECTION:activity-->
 
 
