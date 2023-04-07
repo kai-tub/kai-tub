@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/kai-tub/nix-config/issues/1) in [kai-tub/nix-config](https://github.com/kai-tub/nix-config)
-2. 🎉 Merged PR [#31](https://github.com/conda-forge/fastcore-feedstock/pull/31) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-3. ❌ Closed PR [#29](https://github.com/conda-forge/fastcore-feedstock/pull/29) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-4. 🎉 Merged PR [#30](https://github.com/conda-forge/fastcore-feedstock/pull/30) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-5. 🗣 Commented on [#258](https://github.com/cachix/devenv/issues/258) in [cachix/devenv](https://github.com/cachix/devenv)
+1. 🗣 Commented on [#5](https://github.com/numtide/nix-filter/issues/5) in [numtide/nix-filter](https://github.com/numtide/nix-filter)
+2. ❗️ Closed issue [#1](https://github.com/kai-tub/nix-config/issues/1) in [kai-tub/nix-config](https://github.com/kai-tub/nix-config)
+3. 🎉 Merged PR [#31](https://github.com/conda-forge/fastcore-feedstock/pull/31) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+4. ❌ Closed PR [#29](https://github.com/conda-forge/fastcore-feedstock/pull/29) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+5. 🎉 Merged PR [#30](https://github.com/conda-forge/fastcore-feedstock/pull/30) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
 <!--END_SECTION:activity-->
 
 
