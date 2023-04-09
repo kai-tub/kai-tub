@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/numtide/nix-filter/issues/5) in [numtide/nix-filter](https://github.com/numtide/nix-filter)
-2. ❗️ Closed issue [#1](https://github.com/kai-tub/nix-config/issues/1) in [kai-tub/nix-config](https://github.com/kai-tub/nix-config)
-3. 🎉 Merged PR [#31](https://github.com/conda-forge/fastcore-feedstock/pull/31) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-4. ❌ Closed PR [#29](https://github.com/conda-forge/fastcore-feedstock/pull/29) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-5. 🎉 Merged PR [#30](https://github.com/conda-forge/fastcore-feedstock/pull/30) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+1. ❗️ Opened issue [#2](https://github.com/kai-tub/usbip-wrapper/issues/2) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
+2. 🎉 Merged PR [#1](https://github.com/kai-tub/usbip-wrapper/pull/1) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
+3. 💪 Opened PR [#1](https://github.com/kai-tub/usbip-wrapper/pull/1) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
+4. 🗣 Commented on [#5](https://github.com/numtide/nix-filter/issues/5) in [numtide/nix-filter](https://github.com/numtide/nix-filter)
+5. ❗️ Closed issue [#1](https://github.com/kai-tub/nix-config/issues/1) in [kai-tub/nix-config](https://github.com/kai-tub/nix-config)
 <!--END_SECTION:activity-->
 
 
