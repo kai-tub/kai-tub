@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/kai-tub/usbip-wrapper/issues/2) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
-2. 🎉 Merged PR [#1](https://github.com/kai-tub/usbip-wrapper/pull/1) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
-3. 💪 Opened PR [#1](https://github.com/kai-tub/usbip-wrapper/pull/1) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
-4. 🗣 Commented on [#5](https://github.com/numtide/nix-filter/issues/5) in [numtide/nix-filter](https://github.com/numtide/nix-filter)
-5. ❗️ Closed issue [#1](https://github.com/kai-tub/nix-config/issues/1) in [kai-tub/nix-config](https://github.com/kai-tub/nix-config)
+1. ❗️ Closed issue [#2](https://github.com/kai-tub/usbip-wrapper/issues/2) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
+2. 🎉 Merged PR [#3](https://github.com/kai-tub/usbip-wrapper/pull/3) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
+3. 💪 Opened PR [#3](https://github.com/kai-tub/usbip-wrapper/pull/3) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
+4. 🗣 Commented on [#37](https://github.com/numtide/nix-filter/issues/37) in [numtide/nix-filter](https://github.com/numtide/nix-filter)
+5. 💪 Opened PR [#37](https://github.com/numtide/nix-filter/pull/37) in [numtide/nix-filter](https://github.com/numtide/nix-filter)
 <!--END_SECTION:activity-->
 
 
