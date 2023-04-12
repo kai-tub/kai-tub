@@ -13,7 +13,7 @@
 - Pythonista embracing the Rust journey 🦀
 - Typography 🖊️ and LaTeX Nerd 🤓
 - Audiobook and podcast devotee – always up for a good listen! 🔊
-- Avid board gamer 🎲, amusement park adventurer 🎢, and dog lover 🐺
+- Avid board gamer 🎲, amusement park adventurer 🎢, and dog lover 🐺 (K³ ❤️)
 
 Things I'd explore with more time on my hands:
 - [Language Server Protocol](https://microsoft.github.io/language-server-protocol/) (LSP) 📚
@@ -29,6 +29,8 @@ Things I'd explore with more time on my hands:
 <img alt="python-logo" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img alt="postgres-logo" src="https://img.shields.io/badge/-PostgreSQL/PostGIS-3776AB?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img alt="latex" src="https://img.shields.io/badge/-LaTeX/Beamer-3776AB?style=flat-square&logo=Latex&logoColor=white"/>
+<img alt="HTML" src="https://img.shields.io/badge/-HTML5-3776AB?style=flat-square&logo=HTML5&logoColor=white"/>
+<img alt="CSS" src="https://img.shields.io/badge/-CSS3-3776AB?style=flat-square&logo=CSS3&logoColor=white"/>
 <img alt="fish" src="https://img.shields.io/badge/-Fish-3776AB?style=flat-square&logo=gnu%20bash&logoColor=white"/>
 
 <h3>Development Tools</h3>
