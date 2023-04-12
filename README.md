@@ -44,11 +44,11 @@
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/kai-tub/usbip-wrapper/issues/2) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
-2. 🎉 Merged PR [#3](https://github.com/kai-tub/usbip-wrapper/pull/3) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
-3. 💪 Opened PR [#3](https://github.com/kai-tub/usbip-wrapper/pull/3) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
-4. 🗣 Commented on [#37](https://github.com/numtide/nix-filter/issues/37) in [numtide/nix-filter](https://github.com/numtide/nix-filter)
-5. 💪 Opened PR [#37](https://github.com/numtide/nix-filter/pull/37) in [numtide/nix-filter](https://github.com/numtide/nix-filter)
+1. 💪 Opened PR [#24](https://github.com/lhackel-tub/ConfigVLM/pull/24) in [lhackel-tub/ConfigVLM](https://github.com/lhackel-tub/ConfigVLM)
+2. 💪 Opened PR [#22](https://github.com/lhackel-tub/ConfigVLM/pull/22) in [lhackel-tub/ConfigVLM](https://github.com/lhackel-tub/ConfigVLM)
+3. 💪 Opened PR [#20](https://github.com/lhackel-tub/ConfigVLM/pull/20) in [lhackel-tub/ConfigVLM](https://github.com/lhackel-tub/ConfigVLM)
+4. ❗️ Closed issue [#2](https://github.com/kai-tub/usbip-wrapper/issues/2) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
+5. 🎉 Merged PR [#3](https://github.com/kai-tub/usbip-wrapper/pull/3) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
 <!--END_SECTION:activity-->
 
 
