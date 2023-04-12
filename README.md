@@ -11,6 +11,7 @@
   - Head over heels for [Nix/NixOS](https://nixos.org/) 🥰
 - Hobbyist self-hoster and NixOS admin 🛠️
 - Pythonista embracing the Rust journey 🦀
+- Typography 🖊️ and LaTeX Nerd 🤓
 - Audiobook and podcast devotee – always up for a good listen! 🔊
 - Avid board gamer 🎲, amusement park adventurer 🎢, and dog lover 🐺
 
