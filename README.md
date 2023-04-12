@@ -13,7 +13,7 @@
 - Pythonista embracing the Rust journey 🦀
 - Typography 🖊️ and LaTeX Nerd 🤓
 - Audiobook and podcast devotee – always up for a good listen! 🔊
-- Avid board gamer 🎲, amusement park adventurer 🎢, and dog lover 🐺 (K³ ❤️)
+- Avid board gamer 🎲, amusement park adventurer 🎢, and dog lover 🐺, 👫
 
 Things I'd explore with more time on my hands:
 - [Language Server Protocol](https://microsoft.github.io/language-server-protocol/) (LSP) 📚
