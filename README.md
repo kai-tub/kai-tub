@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/lhackel-tub/ConfigVLM/pull/24) in [lhackel-tub/ConfigVLM](https://github.com/lhackel-tub/ConfigVLM)
-2. 💪 Opened PR [#22](https://github.com/lhackel-tub/ConfigVLM/pull/22) in [lhackel-tub/ConfigVLM](https://github.com/lhackel-tub/ConfigVLM)
-3. 💪 Opened PR [#20](https://github.com/lhackel-tub/ConfigVLM/pull/20) in [lhackel-tub/ConfigVLM](https://github.com/lhackel-tub/ConfigVLM)
-4. ❗️ Closed issue [#2](https://github.com/kai-tub/usbip-wrapper/issues/2) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
-5. 🎉 Merged PR [#3](https://github.com/kai-tub/usbip-wrapper/pull/3) in [kai-tub/usbip-wrapper](https://github.com/kai-tub/usbip-wrapper)
+1. 🎉 Merged PR [#33](https://github.com/kai-tub/ben-docs/pull/33) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+2. 🗣 Commented on [#33](https://github.com/kai-tub/ben-docs/issues/33) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+3. 🎉 Merged PR [#32](https://github.com/kai-tub/ben-docs/pull/32) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+4. 💪 Opened PR [#32](https://github.com/kai-tub/ben-docs/pull/32) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+5. 💪 Opened PR [#24](https://github.com/lhackel-tub/ConfigVLM/pull/24) in [lhackel-tub/ConfigVLM](https://github.com/lhackel-tub/ConfigVLM)
 <!--END_SECTION:activity-->
 
 
