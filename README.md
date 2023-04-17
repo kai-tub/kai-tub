@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/kai-tub/ben-docs/pull/33) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-2. 🗣 Commented on [#33](https://github.com/kai-tub/ben-docs/issues/33) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-3. 🎉 Merged PR [#32](https://github.com/kai-tub/ben-docs/pull/32) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-4. 💪 Opened PR [#32](https://github.com/kai-tub/ben-docs/pull/32) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-5. 💪 Opened PR [#24](https://github.com/lhackel-tub/ConfigVLM/pull/24) in [lhackel-tub/ConfigVLM](https://github.com/lhackel-tub/ConfigVLM)
+1. 🗣 Commented on [#525](https://github.com/asciinema/asciinema/issues/525) in [asciinema/asciinema](https://github.com/asciinema/asciinema)
+2. 🎉 Merged PR [#33](https://github.com/kai-tub/ben-docs/pull/33) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+3. 🗣 Commented on [#33](https://github.com/kai-tub/ben-docs/issues/33) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+4. 🎉 Merged PR [#32](https://github.com/kai-tub/ben-docs/pull/32) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+5. 💪 Opened PR [#32](https://github.com/kai-tub/ben-docs/pull/32) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
 <!--END_SECTION:activity-->
 
 
