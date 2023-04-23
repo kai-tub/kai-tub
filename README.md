@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/kai-tub/ip4rs-dependencies/pull/5) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
-2. 💪 Opened PR [#5](https://github.com/kai-tub/ip4rs-dependencies/pull/5) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
-3. ❗️ Opened issue [#5](https://github.com/nixie-dev/nixie/issues/5) in [nixie-dev/nixie](https://github.com/nixie-dev/nixie)
-4. 🗣 Commented on [#525](https://github.com/asciinema/asciinema/issues/525) in [asciinema/asciinema](https://github.com/asciinema/asciinema)
-5. 🎉 Merged PR [#33](https://github.com/kai-tub/ben-docs/pull/33) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+1. ❗️ Opened issue [#8968](https://github.com/nushell/nushell/issues/8968) in [nushell/nushell](https://github.com/nushell/nushell)
+2. 🎉 Merged PR [#5](https://github.com/kai-tub/ip4rs-dependencies/pull/5) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
+3. 💪 Opened PR [#5](https://github.com/kai-tub/ip4rs-dependencies/pull/5) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
+4. ❗️ Opened issue [#5](https://github.com/nixie-dev/nixie/issues/5) in [nixie-dev/nixie](https://github.com/nixie-dev/nixie)
+5. 🗣 Commented on [#525](https://github.com/asciinema/asciinema/issues/525) in [asciinema/asciinema](https://github.com/asciinema/asciinema)
 <!--END_SECTION:activity-->
 
 
