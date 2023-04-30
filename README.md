@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#883](https://github.com/nushell/nushell.github.io/pull/883) in [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io)
-2. ❗️ Opened issue [#8968](https://github.com/nushell/nushell/issues/8968) in [nushell/nushell](https://github.com/nushell/nushell)
-3. 🎉 Merged PR [#5](https://github.com/kai-tub/ip4rs-dependencies/pull/5) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
-4. 💪 Opened PR [#5](https://github.com/kai-tub/ip4rs-dependencies/pull/5) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
-5. ❗️ Opened issue [#5](https://github.com/nixie-dev/nixie/issues/5) in [nixie-dev/nixie](https://github.com/nixie-dev/nixie)
+1. ❗️ Opened issue [#9058](https://github.com/nushell/nushell/issues/9058) in [nushell/nushell](https://github.com/nushell/nushell)
+2. 💪 Opened PR [#883](https://github.com/nushell/nushell.github.io/pull/883) in [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io)
+3. ❗️ Opened issue [#8968](https://github.com/nushell/nushell/issues/8968) in [nushell/nushell](https://github.com/nushell/nushell)
+4. 🎉 Merged PR [#5](https://github.com/kai-tub/ip4rs-dependencies/pull/5) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
+5. 💪 Opened PR [#5](https://github.com/kai-tub/ip4rs-dependencies/pull/5) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
 <!--END_SECTION:activity-->
 
 
