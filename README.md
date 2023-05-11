@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9058](https://github.com/nushell/nushell/issues/9058) in [nushell/nushell](https://github.com/nushell/nushell)
-2. 💪 Opened PR [#883](https://github.com/nushell/nushell.github.io/pull/883) in [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io)
-3. ❗️ Opened issue [#8968](https://github.com/nushell/nushell/issues/8968) in [nushell/nushell](https://github.com/nushell/nushell)
-4. 🎉 Merged PR [#5](https://github.com/kai-tub/ip4rs-dependencies/pull/5) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
-5. 💪 Opened PR [#5](https://github.com/kai-tub/ip4rs-dependencies/pull/5) in [kai-tub/ip4rs-dependencies](https://github.com/kai-tub/ip4rs-dependencies)
+1. 🗣 Commented on [#231096](https://github.com/NixOS/nixpkgs/issues/231096) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#231096](https://github.com/NixOS/nixpkgs/pull/231096) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗️ Opened issue [#9058](https://github.com/nushell/nushell/issues/9058) in [nushell/nushell](https://github.com/nushell/nushell)
+4. 💪 Opened PR [#883](https://github.com/nushell/nushell.github.io/pull/883) in [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io)
+5. ❗️ Opened issue [#8968](https://github.com/nushell/nushell/issues/8968) in [nushell/nushell](https://github.com/nushell/nushell)
 <!--END_SECTION:activity-->
 
 
