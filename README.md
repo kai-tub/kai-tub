@@ -120,7 +120,7 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 2. 🗣 Commented on [#231096](https://github.com/NixOS/nixpkgs/issues/231096) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 3. 🗣 Commented on [#231096](https://github.com/NixOS/nixpkgs/issues/231096) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 4. 💪 Opened PR [#231096](https://github.com/NixOS/nixpkgs/pull/231096) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ❗️ Opened issue [#9058](https://github.com/nushell/nushell/issues/9058) in [nushell/nushell](https://github.com/nushell/nushell)
+5. ❗ Opened issue [#9058](https://github.com/nushell/nushell/issues/9058) in [nushell/nushell](https://github.com/nushell/nushell)
 <!--END_SECTION:activity-->
 
 
