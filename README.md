@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9790](https://github.com/nushell/nushell/issues/9790#issuecomment-1679371199) in [nushell/nushell](https://github.com/nushell/nushell)
-2. ❗ Opened issue [#348](https://github.com/ratfactor/ziglings/issues/348) in [ratfactor/ziglings](https://github.com/ratfactor/ziglings)
-3. ❗ Opened issue [#347](https://github.com/ratfactor/ziglings/issues/347) in [ratfactor/ziglings](https://github.com/ratfactor/ziglings)
-4. 🗣 Commented on [#9418](https://github.com/nushell/nushell/issues/9418#issuecomment-1614515675) in [nushell/nushell](https://github.com/nushell/nushell)
-5. 🗣 Commented on [#9](https://github.com/DeterminateSystems/nuenv/issues/9#issuecomment-1593653395) in [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv)
+1. 🗣 Commented on [#348](https://github.com/ratfactor/ziglings/issues/348#issuecomment-1682709976) in [ratfactor/ziglings](https://github.com/ratfactor/ziglings)
+2. 💪 Opened PR [#352](https://github.com/ratfactor/ziglings/pull/352) in [ratfactor/ziglings](https://github.com/ratfactor/ziglings)
+3. 🗣 Commented on [#348](https://github.com/ratfactor/ziglings/issues/348#issuecomment-1682492451) in [ratfactor/ziglings](https://github.com/ratfactor/ziglings)
+4. 🗣 Commented on [#9790](https://github.com/nushell/nushell/issues/9790#issuecomment-1679371199) in [nushell/nushell](https://github.com/nushell/nushell)
+5. ❗ Opened issue [#348](https://github.com/ratfactor/ziglings/issues/348) in [ratfactor/ziglings](https://github.com/ratfactor/ziglings)
 <!--END_SECTION:activity-->
 
 
