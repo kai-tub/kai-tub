@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5835](https://github.com/caddyserver/caddy/issues/5835) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
-2. ❗ Opened issue [#855](https://github.com/denisidoro/navi/issues/855) in [denisidoro/navi](https://github.com/denisidoro/navi)
-3. 🗣 Commented on [#91](https://github.com/F1bonacc1/process-compose/issues/91#issuecomment-1709591428) in [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose)
-4. ❗ Opened issue [#91](https://github.com/F1bonacc1/process-compose/issues/91) in [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose)
-5. 🗣 Commented on [#252926](https://github.com/NixOS/nixpkgs/issues/252926#issuecomment-1703914626) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 💪 Opened PR [#257566](https://github.com/NixOS/nixpkgs/pull/257566) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ❗ Opened issue [#5835](https://github.com/caddyserver/caddy/issues/5835) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
+3. ❗ Opened issue [#855](https://github.com/denisidoro/navi/issues/855) in [denisidoro/navi](https://github.com/denisidoro/navi)
+4. 🗣 Commented on [#91](https://github.com/F1bonacc1/process-compose/issues/91#issuecomment-1709591428) in [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose)
+5. ❗ Opened issue [#91](https://github.com/F1bonacc1/process-compose/issues/91) in [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose)
 <!--END_SECTION:activity-->
 
 
