@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#262587](https://github.com/NixOS/nixpkgs/pull/262587) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#262584](https://github.com/NixOS/nixpkgs/pull/262584) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#261685](https://github.com/NixOS/nixpkgs/pull/261685#issuecomment-1768339544) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#5835](https://github.com/caddyserver/caddy/issues/5835#issuecomment-1751791833) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
-5. 🗣 Commented on [#410](https://github.com/nix-community/disko/pull/410#issuecomment-1742027005) in [nix-community/disko](https://github.com/nix-community/disko)
+1. 💪 Opened PR [#267045](https://github.com/NixOS/nixpkgs/pull/267045) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#392](https://github.com/hyprwm/hyprland-wiki/pull/392) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+3. 💪 Opened PR [#262587](https://github.com/NixOS/nixpkgs/pull/262587) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#262584](https://github.com/NixOS/nixpkgs/pull/262584) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#261685](https://github.com/NixOS/nixpkgs/pull/261685#issuecomment-1768339544) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
