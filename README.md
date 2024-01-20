@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#190](https://github.com/huggingface/safetensors/issues/190#issuecomment-1882601821) in [huggingface/safetensors](https://github.com/huggingface/safetensors)
-2. 💪 Opened PR [#83](https://github.com/lhackel-tub/ConfigILM/pull/83) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
-3. ❌ Closed PR [#267045](https://github.com/NixOS/nixpkgs/pull/267045) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 💪 Opened PR [#267045](https://github.com/NixOS/nixpkgs/pull/267045) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 💪 Opened PR [#392](https://github.com/hyprwm/hyprland-wiki/pull/392) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+1. 🗣 Commented on [#11578](https://github.com/nushell/nushell/issues/11578#issuecomment-1900419939) in [nushell/nushell](https://github.com/nushell/nushell)
+2. ❗ Opened issue [#11578](https://github.com/nushell/nushell/issues/11578) in [nushell/nushell](https://github.com/nushell/nushell)
+3. 🗣 Commented on [#190](https://github.com/huggingface/safetensors/issues/190#issuecomment-1882601821) in [huggingface/safetensors](https://github.com/huggingface/safetensors)
+4. 💪 Opened PR [#83](https://github.com/lhackel-tub/ConfigILM/pull/83) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
+5. ❌ Closed PR [#267045](https://github.com/NixOS/nixpkgs/pull/267045) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
