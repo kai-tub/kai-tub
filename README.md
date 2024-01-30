@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11578](https://github.com/nushell/nushell/issues/11578#issuecomment-1900419939) in [nushell/nushell](https://github.com/nushell/nushell)
-2. ❗ Opened issue [#11578](https://github.com/nushell/nushell/issues/11578) in [nushell/nushell](https://github.com/nushell/nushell)
-3. 🗣 Commented on [#190](https://github.com/huggingface/safetensors/issues/190#issuecomment-1882601821) in [huggingface/safetensors](https://github.com/huggingface/safetensors)
-4. 💪 Opened PR [#83](https://github.com/lhackel-tub/ConfigILM/pull/83) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
-5. ❌ Closed PR [#267045](https://github.com/NixOS/nixpkgs/pull/267045) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🎉 Merged PR [#1](https://github.com/kai-tub/hypr-window-switcher/pull/1) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+2. 💪 Opened PR [#1](https://github.com/kai-tub/hypr-window-switcher/pull/1) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+3. 🗣 Commented on [#11578](https://github.com/nushell/nushell/issues/11578#issuecomment-1900419939) in [nushell/nushell](https://github.com/nushell/nushell)
+4. ❗ Opened issue [#11578](https://github.com/nushell/nushell/issues/11578) in [nushell/nushell](https://github.com/nushell/nushell)
+5. 🗣 Commented on [#190](https://github.com/huggingface/safetensors/issues/190#issuecomment-1882601821) in [huggingface/safetensors](https://github.com/huggingface/safetensors)
 <!--END_SECTION:activity-->
 
 
