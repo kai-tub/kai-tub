@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/kai-tub/hypr-window-switcher/pull/7) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-2. 🎉 Merged PR [#6](https://github.com/kai-tub/hypr-window-switcher/pull/6) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-3. 💪 Opened PR [#6](https://github.com/kai-tub/hypr-window-switcher/pull/6) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-4. 🎉 Merged PR [#5](https://github.com/kai-tub/hypr-window-switcher/pull/5) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-5. 💪 Opened PR [#5](https://github.com/kai-tub/hypr-window-switcher/pull/5) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+1. 🎉 Merged PR [#7](https://github.com/kai-tub/hypr-window-switcher/pull/7) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+2. ❗ Opened issue [#730](https://github.com/linrunner/TLP/issues/730) in [linrunner/TLP](https://github.com/linrunner/TLP)
+3. 💪 Opened PR [#7](https://github.com/kai-tub/hypr-window-switcher/pull/7) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+4. 🎉 Merged PR [#6](https://github.com/kai-tub/hypr-window-switcher/pull/6) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+5. 💪 Opened PR [#6](https://github.com/kai-tub/hypr-window-switcher/pull/6) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
 <!--END_SECTION:activity-->
 
 
