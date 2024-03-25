@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/kai-tub/hypr-window-switcher/pull/12) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-2. 🎉 Merged PR [#11](https://github.com/kai-tub/hypr-window-switcher/pull/11) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-3. 💪 Opened PR [#11](https://github.com/kai-tub/hypr-window-switcher/pull/11) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-4. 🎉 Merged PR [#10](https://github.com/kai-tub/hypr-window-switcher/pull/10) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-5. 💪 Opened PR [#10](https://github.com/kai-tub/hypr-window-switcher/pull/10) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+1. 🎉 Merged PR [#12](https://github.com/kai-tub/hypr-window-switcher/pull/12) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+2. 💪 Opened PR [#12](https://github.com/kai-tub/hypr-window-switcher/pull/12) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+3. 🎉 Merged PR [#11](https://github.com/kai-tub/hypr-window-switcher/pull/11) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+4. 💪 Opened PR [#11](https://github.com/kai-tub/hypr-window-switcher/pull/11) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+5. 🎉 Merged PR [#10](https://github.com/kai-tub/hypr-window-switcher/pull/10) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
 <!--END_SECTION:activity-->
 
 
