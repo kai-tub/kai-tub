@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/kai-tub/hypr-window-switcher/pull/14) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-2. 🎉 Merged PR [#13](https://github.com/kai-tub/hypr-window-switcher/pull/13) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-3. 💪 Opened PR [#13](https://github.com/kai-tub/hypr-window-switcher/pull/13) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-4. 🔒 Closed issue [#730](https://github.com/linrunner/TLP/issues/730) in [linrunner/TLP](https://github.com/linrunner/TLP)
-5. ❗ Opened issue [#202](https://github.com/simulot/immich-go/issues/202) in [simulot/immich-go](https://github.com/simulot/immich-go)
+1. 🎉 Merged PR [#14](https://github.com/kai-tub/hypr-window-switcher/pull/14) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+2. 💪 Opened PR [#14](https://github.com/kai-tub/hypr-window-switcher/pull/14) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+3. 🎉 Merged PR [#13](https://github.com/kai-tub/hypr-window-switcher/pull/13) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+4. 💪 Opened PR [#13](https://github.com/kai-tub/hypr-window-switcher/pull/13) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+5. 🔒 Closed issue [#730](https://github.com/linrunner/TLP/issues/730) in [linrunner/TLP](https://github.com/linrunner/TLP)
 <!--END_SECTION:activity-->
 
 
