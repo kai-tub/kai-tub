@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/DavHau/nix-portable/issues/94#issuecomment-2052495781) in [DavHau/nix-portable](https://github.com/DavHau/nix-portable)
-2. 💪 Opened PR [#302908](https://github.com/NixOS/nixpkgs/pull/302908) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🎉 Merged PR [#14](https://github.com/kai-tub/hypr-window-switcher/pull/14) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-4. 💪 Opened PR [#14](https://github.com/kai-tub/hypr-window-switcher/pull/14) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-5. 🎉 Merged PR [#13](https://github.com/kai-tub/hypr-window-switcher/pull/13) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+1. 🎉 Merged PR [#15](https://github.com/kai-tub/hypr-window-switcher/pull/15) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+2. 💪 Opened PR [#15](https://github.com/kai-tub/hypr-window-switcher/pull/15) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+3. 💪 Opened PR [#303799](https://github.com/NixOS/nixpkgs/pull/303799) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#94](https://github.com/DavHau/nix-portable/issues/94#issuecomment-2052495781) in [DavHau/nix-portable](https://github.com/DavHau/nix-portable)
+5. 💪 Opened PR [#302908](https://github.com/NixOS/nixpkgs/pull/302908) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
