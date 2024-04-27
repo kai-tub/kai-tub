@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/simulot/immich-go/issues/202#issuecomment-2067991993) in [simulot/immich-go](https://github.com/simulot/immich-go)
-2. 💪 Opened PR [#224](https://github.com/simulot/immich-go/pull/224) in [simulot/immich-go](https://github.com/simulot/immich-go)
-3. 💪 Opened PR [#305699](https://github.com/NixOS/nixpkgs/pull/305699) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🎉 Merged PR [#16](https://github.com/kai-tub/hypr-window-switcher/pull/16) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-5. 💪 Opened PR [#16](https://github.com/kai-tub/hypr-window-switcher/pull/16) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+1. 🎉 Merged PR [#32](https://github.com/conda-forge/fastcore-feedstock/pull/32) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+2. 🗣 Commented on [#202](https://github.com/simulot/immich-go/issues/202#issuecomment-2067991993) in [simulot/immich-go](https://github.com/simulot/immich-go)
+3. 💪 Opened PR [#224](https://github.com/simulot/immich-go/pull/224) in [simulot/immich-go](https://github.com/simulot/immich-go)
+4. 💪 Opened PR [#305699](https://github.com/NixOS/nixpkgs/pull/305699) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🎉 Merged PR [#16](https://github.com/kai-tub/hypr-window-switcher/pull/16) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
 <!--END_SECTION:activity-->
 
 
