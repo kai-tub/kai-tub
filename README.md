@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/kai-tub/hypr-window-switcher/pull/17) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-2. 💪 Opened PR [#17](https://github.com/kai-tub/hypr-window-switcher/pull/17) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-3. 🎉 Merged PR [#32](https://github.com/conda-forge/fastcore-feedstock/pull/32) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-4. 🗣 Commented on [#202](https://github.com/simulot/immich-go/issues/202#issuecomment-2067991993) in [simulot/immich-go](https://github.com/simulot/immich-go)
-5. 💪 Opened PR [#224](https://github.com/simulot/immich-go/pull/224) in [simulot/immich-go](https://github.com/simulot/immich-go)
+1. 🎉 Merged PR [#33](https://github.com/conda-forge/fastcore-feedstock/pull/33) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+2. 🎉 Merged PR [#17](https://github.com/kai-tub/hypr-window-switcher/pull/17) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+3. 💪 Opened PR [#17](https://github.com/kai-tub/hypr-window-switcher/pull/17) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+4. 🎉 Merged PR [#32](https://github.com/conda-forge/fastcore-feedstock/pull/32) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+5. 🗣 Commented on [#202](https://github.com/simulot/immich-go/issues/202#issuecomment-2067991993) in [simulot/immich-go](https://github.com/simulot/immich-go)
 <!--END_SECTION:activity-->
 
 
