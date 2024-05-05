@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#205](https://github.com/mkb79/audible-cli/pull/205) in [mkb79/audible-cli](https://github.com/mkb79/audible-cli)
-2. 🎉 Merged PR [#33](https://github.com/conda-forge/fastcore-feedstock/pull/33) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-3. 🎉 Merged PR [#17](https://github.com/kai-tub/hypr-window-switcher/pull/17) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-4. 💪 Opened PR [#17](https://github.com/kai-tub/hypr-window-switcher/pull/17) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-5. 🎉 Merged PR [#32](https://github.com/conda-forge/fastcore-feedstock/pull/32) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+1. 🎉 Merged PR [#18](https://github.com/kai-tub/hypr-window-switcher/pull/18) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+2. 💪 Opened PR [#18](https://github.com/kai-tub/hypr-window-switcher/pull/18) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+3. 🗣 Commented on [#4](https://github.com/kai-tub/audible-cli-appimage/issues/4#issuecomment-2094397819) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
+4. 🔒 Closed issue [#4](https://github.com/kai-tub/audible-cli-appimage/issues/4) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
+5. 🔒 Closed issue [#2](https://github.com/kai-tub/audible-cli-appimage/issues/2) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
 <!--END_SECTION:activity-->
 
 
