@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/lhackel-tub/ConfigILM/pull/97) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
-2. 🎉 Merged PR [#19](https://github.com/kai-tub/hypr-window-switcher/pull/19) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-3. 💪 Opened PR [#19](https://github.com/kai-tub/hypr-window-switcher/pull/19) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-4. 🎉 Merged PR [#35](https://github.com/conda-forge/fastcore-feedstock/pull/35) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-5. 🎉 Merged PR [#34](https://github.com/conda-forge/fastcore-feedstock/pull/34) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+1. 💪 Opened PR [#98](https://github.com/lhackel-tub/ConfigILM/pull/98) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
+2. 💪 Opened PR [#97](https://github.com/lhackel-tub/ConfigILM/pull/97) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
+3. 🎉 Merged PR [#19](https://github.com/kai-tub/hypr-window-switcher/pull/19) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+4. 💪 Opened PR [#19](https://github.com/kai-tub/hypr-window-switcher/pull/19) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+5. 🎉 Merged PR [#35](https://github.com/conda-forge/fastcore-feedstock/pull/35) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
 <!--END_SECTION:activity-->
 
 
