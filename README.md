@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#98](https://github.com/lhackel-tub/ConfigILM/pull/98) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
-2. 💪 Opened PR [#97](https://github.com/lhackel-tub/ConfigILM/pull/97) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
-3. 🎉 Merged PR [#19](https://github.com/kai-tub/hypr-window-switcher/pull/19) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-4. 💪 Opened PR [#19](https://github.com/kai-tub/hypr-window-switcher/pull/19) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-5. 🎉 Merged PR [#35](https://github.com/conda-forge/fastcore-feedstock/pull/35) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+1. 🗣 Commented on [#17](https://github.com/kai-tub/external-repo-sync-action/issues/17#issuecomment-2116140345) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
+2. 🔒 Closed issue [#17](https://github.com/kai-tub/external-repo-sync-action/issues/17) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
+3. 🎉 Merged PR [#18](https://github.com/kai-tub/external-repo-sync-action/pull/18) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
+4. 🗣 Commented on [#18](https://github.com/kai-tub/external-repo-sync-action/pull/18#issuecomment-2116139373) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
+5. 💪 Opened PR [#98](https://github.com/lhackel-tub/ConfigILM/pull/98) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
 <!--END_SECTION:activity-->
 
 
