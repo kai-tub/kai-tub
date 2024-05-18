@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/kai-tub/external-repo-sync-action/issues/17#issuecomment-2116140345) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
-2. 🔒 Closed issue [#17](https://github.com/kai-tub/external-repo-sync-action/issues/17) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
-3. 🎉 Merged PR [#18](https://github.com/kai-tub/external-repo-sync-action/pull/18) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
-4. 🗣 Commented on [#18](https://github.com/kai-tub/external-repo-sync-action/pull/18#issuecomment-2116139373) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
-5. 💪 Opened PR [#98](https://github.com/lhackel-tub/ConfigILM/pull/98) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
+1. 🎉 Merged PR [#36](https://github.com/conda-forge/fastcore-feedstock/pull/36) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+2. 🗣 Commented on [#17](https://github.com/kai-tub/external-repo-sync-action/issues/17#issuecomment-2116140345) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
+3. 🔒 Closed issue [#17](https://github.com/kai-tub/external-repo-sync-action/issues/17) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
+4. 🎉 Merged PR [#18](https://github.com/kai-tub/external-repo-sync-action/pull/18) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
+5. 🗣 Commented on [#18](https://github.com/kai-tub/external-repo-sync-action/pull/18#issuecomment-2116139373) in [kai-tub/external-repo-sync-action](https://github.com/kai-tub/external-repo-sync-action)
 <!--END_SECTION:activity-->
 
 
