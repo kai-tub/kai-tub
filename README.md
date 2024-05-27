@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/kai-tub/hypr-window-switcher/pull/21) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-2. 🗣 Commented on [#305699](https://github.com/NixOS/nixpkgs/pull/305699#issuecomment-2126829829) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❌ Closed PR [#305699](https://github.com/NixOS/nixpkgs/pull/305699) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 💪 Opened PR [#313310](https://github.com/NixOS/nixpkgs/pull/313310) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🎉 Merged PR [#37](https://github.com/conda-forge/fastcore-feedstock/pull/37) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+1. 💪 Opened PR [#314787](https://github.com/NixOS/nixpkgs/pull/314787) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🎉 Merged PR [#21](https://github.com/kai-tub/hypr-window-switcher/pull/21) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+3. 💪 Opened PR [#21](https://github.com/kai-tub/hypr-window-switcher/pull/21) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+4. 🗣 Commented on [#305699](https://github.com/NixOS/nixpkgs/pull/305699#issuecomment-2126829829) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❌ Closed PR [#305699](https://github.com/NixOS/nixpkgs/pull/305699) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
