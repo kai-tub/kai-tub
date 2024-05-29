@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#314787](https://github.com/NixOS/nixpkgs/pull/314787) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🎉 Merged PR [#21](https://github.com/kai-tub/hypr-window-switcher/pull/21) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-3. 💪 Opened PR [#21](https://github.com/kai-tub/hypr-window-switcher/pull/21) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-4. 🗣 Commented on [#305699](https://github.com/NixOS/nixpkgs/pull/305699#issuecomment-2126829829) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ❌ Closed PR [#305699](https://github.com/NixOS/nixpkgs/pull/305699) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. ❗ Opened issue [#101](https://github.com/lhackel-tub/ConfigILM/issues/101) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
+2. 🎉 Merged PR [#38](https://github.com/conda-forge/fastcore-feedstock/pull/38) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+3. 💪 Opened PR [#314787](https://github.com/NixOS/nixpkgs/pull/314787) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🎉 Merged PR [#21](https://github.com/kai-tub/hypr-window-switcher/pull/21) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+5. 💪 Opened PR [#21](https://github.com/kai-tub/hypr-window-switcher/pull/21) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
 <!--END_SECTION:activity-->
 
 
