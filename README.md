@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#101](https://github.com/lhackel-tub/ConfigILM/issues/101) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
-2. 🎉 Merged PR [#38](https://github.com/conda-forge/fastcore-feedstock/pull/38) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-3. 💪 Opened PR [#314787](https://github.com/NixOS/nixpkgs/pull/314787) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🎉 Merged PR [#21](https://github.com/kai-tub/hypr-window-switcher/pull/21) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-5. 💪 Opened PR [#21](https://github.com/kai-tub/hypr-window-switcher/pull/21) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+1. ❗ Opened issue [#208](https://github.com/mkb79/audible-cli/issues/208) in [mkb79/audible-cli](https://github.com/mkb79/audible-cli)
+2. 🗣 Commented on [#3](https://github.com/kai-tub/audible-cli-appimage/issues/3#issuecomment-2138124293) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
+3. 🔒 Closed issue [#3](https://github.com/kai-tub/audible-cli-appimage/issues/3) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
+4. 🎉 Merged PR [#5](https://github.com/kai-tub/audible-cli-appimage/pull/5) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
+5. 🗣 Commented on [#12](https://github.com/ralismark/nix-appimage/issues/12#issuecomment-2138094945) in [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage)
 <!--END_SECTION:activity-->
 
 
