@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#208](https://github.com/mkb79/audible-cli/issues/208) in [mkb79/audible-cli](https://github.com/mkb79/audible-cli)
-2. 🗣 Commented on [#3](https://github.com/kai-tub/audible-cli-appimage/issues/3#issuecomment-2138124293) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
-3. 🔒 Closed issue [#3](https://github.com/kai-tub/audible-cli-appimage/issues/3) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
-4. 🎉 Merged PR [#5](https://github.com/kai-tub/audible-cli-appimage/pull/5) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
-5. 🗣 Commented on [#12](https://github.com/ralismark/nix-appimage/issues/12#issuecomment-2138094945) in [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage)
+1. 🎉 Merged PR [#40](https://github.com/conda-forge/fastcore-feedstock/pull/40) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+2. ❗ Opened issue [#208](https://github.com/mkb79/audible-cli/issues/208) in [mkb79/audible-cli](https://github.com/mkb79/audible-cli)
+3. 🗣 Commented on [#3](https://github.com/kai-tub/audible-cli-appimage/issues/3#issuecomment-2138124293) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
+4. 🔒 Closed issue [#3](https://github.com/kai-tub/audible-cli-appimage/issues/3) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
+5. 🎉 Merged PR [#5](https://github.com/kai-tub/audible-cli-appimage/pull/5) in [kai-tub/audible-cli-appimage](https://github.com/kai-tub/audible-cli-appimage)
 <!--END_SECTION:activity-->
 
 
