@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/conda-forge/fastcore-feedstock/pull/46) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-2. 🎉 Merged PR [#25](https://github.com/kai-tub/hypr-window-switcher/pull/25) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-3. 💪 Opened PR [#25](https://github.com/kai-tub/hypr-window-switcher/pull/25) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-4. 🎉 Merged PR [#45](https://github.com/conda-forge/fastcore-feedstock/pull/45) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-5. ❗ Opened issue [#53](https://github.com/shell-pool/shpool/issues/53) in [shell-pool/shpool](https://github.com/shell-pool/shpool)
+1. 💪 Opened PR [#26](https://github.com/kai-tub/hypr-window-switcher/pull/26) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+2. 🎉 Merged PR [#46](https://github.com/conda-forge/fastcore-feedstock/pull/46) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+3. 🎉 Merged PR [#25](https://github.com/kai-tub/hypr-window-switcher/pull/25) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+4. 💪 Opened PR [#25](https://github.com/kai-tub/hypr-window-switcher/pull/25) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+5. 🎉 Merged PR [#45](https://github.com/conda-forge/fastcore-feedstock/pull/45) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
 <!--END_SECTION:activity-->
 
 
