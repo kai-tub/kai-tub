@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.4](https://github.com/kai-tub/latex-beamer-pure-minimalistic/releases/tag/v2.0.4) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-2. 🎉 Merged PR [#88](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/88) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-3. 💪 Opened PR [#88](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/88) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-4. 🎉 Merged PR [#87](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/87) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
-5. 💪 Opened PR [#87](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/87) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+1. 💪 Opened PR [#323960](https://github.com/NixOS/nixpkgs/pull/323960) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🚀 Published release [v2.0.4](https://github.com/kai-tub/latex-beamer-pure-minimalistic/releases/tag/v2.0.4) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+3. 🎉 Merged PR [#88](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/88) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+4. 💪 Opened PR [#88](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/88) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+5. 🎉 Merged PR [#87](https://github.com/kai-tub/latex-beamer-pure-minimalistic/pull/87) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
 <!--END_SECTION:activity-->
 
 
