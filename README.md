@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#352](https://github.com/simulot/immich-go/pull/352) in [simulot/immich-go](https://github.com/simulot/immich-go)
-2. 🗣 Commented on [#323960](https://github.com/NixOS/nixpkgs/pull/323960#issuecomment-2205197388) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❌ Closed PR [#323960](https://github.com/NixOS/nixpkgs/pull/323960) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 💪 Opened PR [#323960](https://github.com/NixOS/nixpkgs/pull/323960) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🚀 Published release [v2.0.4](https://github.com/kai-tub/latex-beamer-pure-minimalistic/releases/tag/v2.0.4) in [kai-tub/latex-beamer-pure-minimalistic](https://github.com/kai-tub/latex-beamer-pure-minimalistic)
+1. 🗣 Commented on [#352](https://github.com/simulot/immich-go/pull/352#issuecomment-2210210204) in [simulot/immich-go](https://github.com/simulot/immich-go)
+2. 🗣 Commented on [#352](https://github.com/simulot/immich-go/pull/352#issuecomment-2209483125) in [simulot/immich-go](https://github.com/simulot/immich-go)
+3. 💪 Opened PR [#352](https://github.com/simulot/immich-go/pull/352) in [simulot/immich-go](https://github.com/simulot/immich-go)
+4. 🗣 Commented on [#323960](https://github.com/NixOS/nixpkgs/pull/323960#issuecomment-2205197388) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❌ Closed PR [#323960](https://github.com/NixOS/nixpkgs/pull/323960) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
