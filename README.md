@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#325587](https://github.com/NixOS/nixpkgs/pull/325587) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🎉 Merged PR [#26](https://github.com/kai-tub/hypr-window-switcher/pull/26) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-3. 💪 Opened PR [#325444](https://github.com/NixOS/nixpkgs/pull/325444) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#352](https://github.com/simulot/immich-go/pull/352#issuecomment-2210210204) in [simulot/immich-go](https://github.com/simulot/immich-go)
-5. 🗣 Commented on [#352](https://github.com/simulot/immich-go/pull/352#issuecomment-2209483125) in [simulot/immich-go](https://github.com/simulot/immich-go)
+1. 🚀 Published release [v0.3.0](https://github.com/kai-tub/rico-hdl/releases/tag/v0.3.0) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+2. 🎉 Merged PR [#4](https://github.com/kai-tub/rico-hdl/pull/4) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+3. 💪 Opened PR [#4](https://github.com/kai-tub/rico-hdl/pull/4) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+4. 🎉 Merged PR [#47](https://github.com/conda-forge/fastcore-feedstock/pull/47) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+5. 💪 Opened PR [#325587](https://github.com/NixOS/nixpkgs/pull/325587) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
