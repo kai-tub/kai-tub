@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#327245](https://github.com/NixOS/nixpkgs/pull/327245#issuecomment-2231866791) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#34](https://github.com/Vladimir-csp/uwsm/pull/34) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
-3. 🗣 Commented on [#327245](https://github.com/NixOS/nixpkgs/pull/327245#issuecomment-2227814052) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🎉 Merged PR [#50](https://github.com/conda-forge/fastcore-feedstock/pull/50) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-5. 🎉 Merged PR [#49](https://github.com/conda-forge/fastcore-feedstock/pull/49) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+1. 🗣 Commented on [#34](https://github.com/Vladimir-csp/uwsm/pull/34#issuecomment-2234172414) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
+2. 💪 Opened PR [#5](https://github.com/satellite-image-deep-learning/software/pull/5) in [satellite-image-deep-learning/software](https://github.com/satellite-image-deep-learning/software)
+3. 🗣 Commented on [#34](https://github.com/Vladimir-csp/uwsm/pull/34#issuecomment-2232554754) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
+4. 🗣 Commented on [#327245](https://github.com/NixOS/nixpkgs/pull/327245#issuecomment-2231866791) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 💪 Opened PR [#34](https://github.com/Vladimir-csp/uwsm/pull/34) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
 <!--END_SECTION:activity-->
 
 
