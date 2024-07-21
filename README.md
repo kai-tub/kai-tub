@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/Vladimir-csp/uwsm/pull/34#issuecomment-2234172414) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
-2. 💪 Opened PR [#5](https://github.com/satellite-image-deep-learning/software/pull/5) in [satellite-image-deep-learning/software](https://github.com/satellite-image-deep-learning/software)
-3. 🗣 Commented on [#34](https://github.com/Vladimir-csp/uwsm/pull/34#issuecomment-2232554754) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
-4. 🗣 Commented on [#327245](https://github.com/NixOS/nixpkgs/pull/327245#issuecomment-2231866791) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 💪 Opened PR [#34](https://github.com/Vladimir-csp/uwsm/pull/34) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
+1. 💪 Opened PR [#28](https://github.com/kai-tub/hypr-window-switcher/pull/28) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+2. ❗ Opened issue [#35](https://github.com/Vladimir-csp/uwsm/issues/35) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
+3. 🗣 Commented on [#34](https://github.com/Vladimir-csp/uwsm/pull/34#issuecomment-2234172414) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
+4. 💪 Opened PR [#5](https://github.com/satellite-image-deep-learning/software/pull/5) in [satellite-image-deep-learning/software](https://github.com/satellite-image-deep-learning/software)
+5. 🗣 Commented on [#34](https://github.com/Vladimir-csp/uwsm/pull/34#issuecomment-2232554754) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
 <!--END_SECTION:activity-->
 
 
