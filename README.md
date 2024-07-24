@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#476](https://github.com/cachix/git-hooks.nix/issues/476) in [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix)
-2. 🎉 Merged PR [#28](https://github.com/kai-tub/hypr-window-switcher/pull/28) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-3. 💪 Opened PR [#28](https://github.com/kai-tub/hypr-window-switcher/pull/28) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-4. ❗ Opened issue [#35](https://github.com/Vladimir-csp/uwsm/issues/35) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
-5. 🗣 Commented on [#34](https://github.com/Vladimir-csp/uwsm/pull/34#issuecomment-2234172414) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
+1. 🗣 Commented on [#476](https://github.com/cachix/git-hooks.nix/issues/476#issuecomment-2246225687) in [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix)
+2. 🔒 Closed issue [#476](https://github.com/cachix/git-hooks.nix/issues/476) in [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix)
+3. ❗ Opened issue [#476](https://github.com/cachix/git-hooks.nix/issues/476) in [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix)
+4. 🎉 Merged PR [#28](https://github.com/kai-tub/hypr-window-switcher/pull/28) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+5. 💪 Opened PR [#28](https://github.com/kai-tub/hypr-window-switcher/pull/28) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
 <!--END_SECTION:activity-->
 
 
