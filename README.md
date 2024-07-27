@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#329616](https://github.com/NixOS/nixpkgs/pull/329616#issuecomment-2248620285) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#476](https://github.com/cachix/git-hooks.nix/issues/476#issuecomment-2246225687) in [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix)
-3. 🔒 Closed issue [#476](https://github.com/cachix/git-hooks.nix/issues/476) in [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix)
-4. ❗ Opened issue [#476](https://github.com/cachix/git-hooks.nix/issues/476) in [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix)
-5. 🎉 Merged PR [#28](https://github.com/kai-tub/hypr-window-switcher/pull/28) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+1. 🗣 Commented on [#34](https://github.com/Vladimir-csp/uwsm/pull/34#issuecomment-2253539870) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
+2. 🗣 Commented on [#330245](https://github.com/NixOS/nixpkgs/pull/330245#issuecomment-2253528614) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🎉 Merged PR [#51](https://github.com/conda-forge/fastcore-feedstock/pull/51) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
+4. 🗣 Commented on [#329616](https://github.com/NixOS/nixpkgs/pull/329616#issuecomment-2248620285) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#476](https://github.com/cachix/git-hooks.nix/issues/476#issuecomment-2246225687) in [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix)
 <!--END_SECTION:activity-->
 
 
