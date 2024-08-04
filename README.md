@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/Vladimir-csp/uwsm/issues/36#issuecomment-2266114898) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
-2. 🗣 Commented on [#36](https://github.com/Vladimir-csp/uwsm/issues/36#issuecomment-2261375193) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
-3. 💪 Opened PR [#1](https://github.com/rsim-tu-berlin/rsim.berlin/pull/1) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
-4. 🎉 Merged PR [#1](https://github.com/rsim-tu-berlin/bigearthnet-pipeline/pull/1) in [rsim-tu-berlin/bigearthnet-pipeline](https://github.com/rsim-tu-berlin/bigearthnet-pipeline)
-5. 🎉 Merged PR [#5](https://github.com/kai-tub/bigearthnet-pipeline/pull/5) in [kai-tub/bigearthnet-pipeline](https://github.com/kai-tub/bigearthnet-pipeline)
+1. 💪 Opened PR [#30](https://github.com/kai-tub/hypr-window-switcher/pull/30) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+2. 🗣 Commented on [#36](https://github.com/Vladimir-csp/uwsm/issues/36#issuecomment-2266114898) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
+3. 🗣 Commented on [#36](https://github.com/Vladimir-csp/uwsm/issues/36#issuecomment-2261375193) in [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm)
+4. 💪 Opened PR [#1](https://github.com/rsim-tu-berlin/rsim.berlin/pull/1) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
+5. 🎉 Merged PR [#1](https://github.com/rsim-tu-berlin/bigearthnet-pipeline/pull/1) in [rsim-tu-berlin/bigearthnet-pipeline](https://github.com/rsim-tu-berlin/bigearthnet-pipeline)
 <!--END_SECTION:activity-->
 
 
