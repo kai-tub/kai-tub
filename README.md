@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/kai-tub/hypr-window-switcher/pull/31) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-2. 💪 Opened PR [#3](https://github.com/rsim-tu-berlin/rsim.berlin/pull/3) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
-3. 🎉 Merged PR [#2](https://github.com/rsim-tu-berlin/rsim.berlin/pull/2) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
-4. 💪 Opened PR [#2](https://github.com/rsim-tu-berlin/rsim.berlin/pull/2) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
-5. 🎉 Merged PR [#1](https://github.com/rsim-tu-berlin/rsim.berlin/pull/1) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
+1. 🗣 Commented on [#1246](https://github.com/maplibre/martin/issues/1246#issuecomment-2291050552) in [maplibre/martin](https://github.com/maplibre/martin)
+2. 🎉 Merged PR [#31](https://github.com/kai-tub/hypr-window-switcher/pull/31) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+3. 💪 Opened PR [#3](https://github.com/rsim-tu-berlin/rsim.berlin/pull/3) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
+4. 🎉 Merged PR [#2](https://github.com/rsim-tu-berlin/rsim.berlin/pull/2) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
+5. 💪 Opened PR [#2](https://github.com/rsim-tu-berlin/rsim.berlin/pull/2) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
 <!--END_SECTION:activity-->
 
 
