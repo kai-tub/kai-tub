@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/kai-tub/uwsm-nix/issues/1#issuecomment-2295303889) in [kai-tub/uwsm-nix](https://github.com/kai-tub/uwsm-nix)
-2. 🔒 Closed issue [#1](https://github.com/kai-tub/uwsm-nix/issues/1) in [kai-tub/uwsm-nix](https://github.com/kai-tub/uwsm-nix)
-3. 💪 Opened PR [#32](https://github.com/kai-tub/hypr-window-switcher/pull/32) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
-4. 🗣 Commented on [#1246](https://github.com/maplibre/martin/issues/1246#issuecomment-2292918405) in [maplibre/martin](https://github.com/maplibre/martin)
-5. 🗣 Commented on [#1246](https://github.com/maplibre/martin/issues/1246#issuecomment-2291050552) in [maplibre/martin](https://github.com/maplibre/martin)
+1. 🗣 Commented on [#336285](https://github.com/NixOS/nixpkgs/pull/336285#issuecomment-2308427730) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#1](https://github.com/kai-tub/uwsm-nix/issues/1#issuecomment-2295303889) in [kai-tub/uwsm-nix](https://github.com/kai-tub/uwsm-nix)
+3. 🔒 Closed issue [#1](https://github.com/kai-tub/uwsm-nix/issues/1) in [kai-tub/uwsm-nix](https://github.com/kai-tub/uwsm-nix)
+4. 💪 Opened PR [#32](https://github.com/kai-tub/hypr-window-switcher/pull/32) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+5. 🗣 Commented on [#1246](https://github.com/maplibre/martin/issues/1246#issuecomment-2292918405) in [maplibre/martin](https://github.com/maplibre/martin)
 <!--END_SECTION:activity-->
 
 
