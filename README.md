@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#337682](https://github.com/NixOS/nixpkgs/pull/337682#issuecomment-2312412589) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#336285](https://github.com/NixOS/nixpkgs/pull/336285#issuecomment-2308427730) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#1](https://github.com/kai-tub/uwsm-nix/issues/1#issuecomment-2295303889) in [kai-tub/uwsm-nix](https://github.com/kai-tub/uwsm-nix)
-4. 🔒 Closed issue [#1](https://github.com/kai-tub/uwsm-nix/issues/1) in [kai-tub/uwsm-nix](https://github.com/kai-tub/uwsm-nix)
-5. 💪 Opened PR [#32](https://github.com/kai-tub/hypr-window-switcher/pull/32) in [kai-tub/hypr-window-switcher](https://github.com/kai-tub/hypr-window-switcher)
+1. 🚀 Published release [v0.3.1-alpha](https://github.com/kai-tub/rico-hdl/releases/tag/v0.3.1-alpha) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+2. 🗣 Commented on [#337682](https://github.com/NixOS/nixpkgs/pull/337682#issuecomment-2312412589) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#336285](https://github.com/NixOS/nixpkgs/pull/336285#issuecomment-2308427730) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#1](https://github.com/kai-tub/uwsm-nix/issues/1#issuecomment-2295303889) in [kai-tub/uwsm-nix](https://github.com/kai-tub/uwsm-nix)
+5. 🔒 Closed issue [#1](https://github.com/kai-tub/uwsm-nix/issues/1) in [kai-tub/uwsm-nix](https://github.com/kai-tub/uwsm-nix)
 <!--END_SECTION:activity-->
 
 
