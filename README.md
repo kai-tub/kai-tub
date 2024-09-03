@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/conda-forge/fastcore-feedstock/pull/64) in [conda-forge/fastcore-feedstock](https://github.com/conda-forge/fastcore-feedstock)
-2. 🚀 Published release [v0.3.1-alpha](https://github.com/kai-tub/rico-hdl/releases/tag/v0.3.1-alpha) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
-3. 🗣 Commented on [#337682](https://github.com/NixOS/nixpkgs/pull/337682#issuecomment-2312412589) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#336285](https://github.com/NixOS/nixpkgs/pull/336285#issuecomment-2308427730) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#1](https://github.com/kai-tub/uwsm-nix/issues/1#issuecomment-2295303889) in [kai-tub/uwsm-nix](https://github.com/kai-tub/uwsm-nix)
+1. 🚀 Published release [v0.3.1](https://github.com/kai-tub/rico-hdl/releases/tag/v0.3.1) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+2. 🎉 Merged PR [#5](https://github.com/kai-tub/rico-hdl/pull/5) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+3. 🎉 Merged PR [#3](https://github.com/rsim-tu-berlin/rsim.berlin/pull/3) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
+4. 🗣 Commented on [#3](https://github.com/rsim-tu-berlin/rsim.berlin/pull/3#issuecomment-2324651834) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
+5. 💪 Opened PR [#5](https://github.com/kai-tub/rico-hdl/pull/5) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
 <!--END_SECTION:activity-->
 
 
