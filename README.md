@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/SEIAROTg/quadlet-nix/pull/6#issuecomment-2368807515) in [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix)
-2. 💪 Opened PR [#34](https://github.com/kai-tub/ben-docs/pull/34) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-3. 💪 Opened PR [#6](https://github.com/SEIAROTg/quadlet-nix/pull/6) in [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix)
-4. 🔓 Reopened issue [#342285](https://github.com/NixOS/nixpkgs/issues/342285) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#342285](https://github.com/NixOS/nixpkgs/issues/342285#issuecomment-2359161324) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#6](https://github.com/kai-tub/rico-hdl/issues/6#issuecomment-2387723107) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+2. 🔒 Closed issue [#6](https://github.com/kai-tub/rico-hdl/issues/6) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+3. 🗣 Commented on [#6](https://github.com/SEIAROTg/quadlet-nix/pull/6#issuecomment-2368807515) in [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix)
+4. 💪 Opened PR [#34](https://github.com/kai-tub/ben-docs/pull/34) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+5. 💪 Opened PR [#6](https://github.com/SEIAROTg/quadlet-nix/pull/6) in [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix)
 <!--END_SECTION:activity-->
 
 
