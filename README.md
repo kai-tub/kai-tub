@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Add Hydro Dataset](https://github.com/kai-tub/rico-hdl/releases/tag/v0.5.0) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
-2. 🎉 Merged PR [#35](https://github.com/kai-tub/ben-docs/pull/35) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-3. ❌ Closed PR [#34](https://github.com/kai-tub/ben-docs/pull/34) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-4. 💪 Opened PR [#35](https://github.com/kai-tub/ben-docs/pull/35) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
-5. 🗣 Commented on [#6](https://github.com/SEIAROTg/quadlet-nix/pull/6#issuecomment-2417221541) in [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix)
+1. ❗ Opened issue [#35344](https://github.com/systemd/systemd/issues/35344) in [systemd/systemd](https://github.com/systemd/systemd)
+2. 🚀 Published release [Add Hydro Dataset](https://github.com/kai-tub/rico-hdl/releases/tag/v0.5.0) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+3. 🎉 Merged PR [#35](https://github.com/kai-tub/ben-docs/pull/35) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+4. ❌ Closed PR [#34](https://github.com/kai-tub/ben-docs/pull/34) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
+5. 💪 Opened PR [#35](https://github.com/kai-tub/ben-docs/pull/35) in [kai-tub/ben-docs](https://github.com/kai-tub/ben-docs)
 <!--END_SECTION:activity-->
 
 
