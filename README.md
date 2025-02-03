@@ -116,8 +116,8 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#124](https://github.com/lhackel-tub/ConfigILM/issues/124) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
-2. 🎉 Merged PR [#2](https://github.com/rsim-tu-berlin/rico-hdl/pull/2) in [rsim-tu-berlin/rico-hdl](https://github.com/rsim-tu-berlin/rico-hdl)
+1. ❗ Opened issue [#378834](https://github.com/NixOS/nixpkgs/issues/378834) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ❗ Opened issue [#124](https://github.com/lhackel-tub/ConfigILM/issues/124) in [lhackel-tub/ConfigILM](https://github.com/lhackel-tub/ConfigILM)
 3. 🚀 Published release [v0.6.0](https://github.com/kai-tub/rico-hdl/releases/tag/v0.6.0) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
 4. ❗ Opened issue [#35344](https://github.com/systemd/systemd/issues/35344) in [systemd/systemd](https://github.com/systemd/systemd)
 5. 🚀 Published release [Add Hydro Dataset](https://github.com/kai-tub/rico-hdl/releases/tag/v0.5.0) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
