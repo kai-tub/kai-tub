@@ -116,10 +116,10 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/rsim-tu-berlin/rsim.berlin/pull/4) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
-2. 💪 Opened PR [#4](https://github.com/rsim-tu-berlin/rsim.berlin/pull/4) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
-3. 🚀 Published release [v0.6.0](https://github.com/kai-tub/rico-hdl/releases/tag/v0.6.0) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
-4. ❗ Opened issue [#35344](https://github.com/systemd/systemd/issues/35344) in [systemd/systemd](https://github.com/systemd/systemd)
+1. 🗣 Commented on [#392288](https://github.com/NixOS/nixpkgs/pull/392288#issuecomment-2746146505) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#392288](https://github.com/NixOS/nixpkgs/pull/392288) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🎉 Merged PR [#4](https://github.com/rsim-tu-berlin/rsim.berlin/pull/4) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
+4. 💪 Opened PR [#4](https://github.com/rsim-tu-berlin/rsim.berlin/pull/4) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
 5. 🚀 Published release [Add Hydro Dataset](https://github.com/kai-tub/rico-hdl/releases/tag/v0.5.0) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
 <!--END_SECTION:activity-->
 
