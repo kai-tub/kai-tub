@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392288](https://github.com/NixOS/nixpkgs/pull/392288#issuecomment-2746146505) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#392288](https://github.com/NixOS/nixpkgs/pull/392288) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🎉 Merged PR [#4](https://github.com/rsim-tu-berlin/rsim.berlin/pull/4) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
-4. 💪 Opened PR [#4](https://github.com/rsim-tu-berlin/rsim.berlin/pull/4) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
-5. 🚀 Published release [Add Hydro Dataset](https://github.com/kai-tub/rico-hdl/releases/tag/v0.5.0) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+1. 💪 Opened PR [#392831](https://github.com/NixOS/nixpkgs/pull/392831) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#392288](https://github.com/NixOS/nixpkgs/pull/392288#issuecomment-2746146505) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#392288](https://github.com/NixOS/nixpkgs/pull/392288) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🎉 Merged PR [#4](https://github.com/rsim-tu-berlin/rsim.berlin/pull/4) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
+5. 💪 Opened PR [#4](https://github.com/rsim-tu-berlin/rsim.berlin/pull/4) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
 <!--END_SECTION:activity-->
 
 
