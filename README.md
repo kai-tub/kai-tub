@@ -116,7 +116,7 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#392831](https://github.com/NixOS/nixpkgs/pull/392831) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#404215](https://github.com/NixOS/nixpkgs/pull/404215#issuecomment-2849956770) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 2. 🗣 Commented on [#392288](https://github.com/NixOS/nixpkgs/pull/392288#issuecomment-2746146505) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 3. 💪 Opened PR [#392288](https://github.com/NixOS/nixpkgs/pull/392288) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 4. 🎉 Merged PR [#4](https://github.com/rsim-tu-berlin/rsim.berlin/pull/4) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
