@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/kai-tub/rico-hdl/pull/7) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
-2. 💪 Opened PR [#7](https://github.com/kai-tub/rico-hdl/pull/7) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
-3. 🗣 Commented on [#404215](https://github.com/NixOS/nixpkgs/pull/404215#issuecomment-2849956770) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🎉 Merged PR [#4](https://github.com/rsim-tu-berlin/rsim.berlin/pull/4) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
-5. 💪 Opened PR [#4](https://github.com/rsim-tu-berlin/rsim.berlin/pull/4) in [rsim-tu-berlin/rsim.berlin](https://github.com/rsim-tu-berlin/rsim.berlin)
+1. 🎉 Merged PR [#6](https://github.com/kai-tub/bigearthnet-pipeline/pull/6) in [kai-tub/bigearthnet-pipeline](https://github.com/kai-tub/bigearthnet-pipeline)
+2. 💪 Opened PR [#6](https://github.com/kai-tub/bigearthnet-pipeline/pull/6) in [kai-tub/bigearthnet-pipeline](https://github.com/kai-tub/bigearthnet-pipeline)
+3. 🎉 Merged PR [#7](https://github.com/kai-tub/rico-hdl/pull/7) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+4. 💪 Opened PR [#7](https://github.com/kai-tub/rico-hdl/pull/7) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+5. 🗣 Commented on [#404215](https://github.com/NixOS/nixpkgs/pull/404215#issuecomment-2849956770) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 
