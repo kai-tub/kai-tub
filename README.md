@@ -116,11 +116,11 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#711](https://github.com/k1LoW/tbls/issues/711) in [k1LoW/tbls](https://github.com/k1LoW/tbls)
-2. 🗣 Commented on [#410984](https://github.com/NixOS/nixpkgs/pull/410984#issuecomment-2908602384) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🎉 Merged PR [#6](https://github.com/kai-tub/bigearthnet-pipeline/pull/6) in [kai-tub/bigearthnet-pipeline](https://github.com/kai-tub/bigearthnet-pipeline)
-4. 💪 Opened PR [#6](https://github.com/kai-tub/bigearthnet-pipeline/pull/6) in [kai-tub/bigearthnet-pipeline](https://github.com/kai-tub/bigearthnet-pipeline)
-5. 🎉 Merged PR [#7](https://github.com/kai-tub/rico-hdl/pull/7) in [kai-tub/rico-hdl](https://github.com/kai-tub/rico-hdl)
+1. 🗣 Commented on [#417468](https://github.com/NixOS/nixpkgs/issues/417468#issuecomment-2981049035) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ❗ Opened issue [#711](https://github.com/k1LoW/tbls/issues/711) in [k1LoW/tbls](https://github.com/k1LoW/tbls)
+3. 🗣 Commented on [#410984](https://github.com/NixOS/nixpkgs/pull/410984#issuecomment-2908602384) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🎉 Merged PR [#6](https://github.com/kai-tub/bigearthnet-pipeline/pull/6) in [kai-tub/bigearthnet-pipeline](https://github.com/kai-tub/bigearthnet-pipeline)
+5. 💪 Opened PR [#6](https://github.com/kai-tub/bigearthnet-pipeline/pull/6) in [kai-tub/bigearthnet-pipeline](https://github.com/kai-tub/bigearthnet-pipeline)
 <!--END_SECTION:activity-->
 
 
