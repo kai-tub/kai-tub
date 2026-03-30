@@ -116,7 +116,7 @@ A few additional utility libraries that make the BigEarthNet dataset more access
 <h3>Recent GitHub activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#463311](https://github.com/NixOS/nixpkgs/pull/463311#issuecomment-3591678176) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🔒 Closed issue [#8968](https://github.com/nushell/nushell/issues/8968) in [nushell/nushell](https://github.com/nushell/nushell)
 2. ❗ Opened issue [#443686](https://github.com/NixOS/nixpkgs/issues/443686) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 3. 🗣 Commented on [#417468](https://github.com/NixOS/nixpkgs/issues/417468#issuecomment-2981049035) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 4. 🎉 Merged PR [#6](https://github.com/kai-tub/bigearthnet-pipeline/pull/6) in [kai-tub/bigearthnet-pipeline](https://github.com/kai-tub/bigearthnet-pipeline)
